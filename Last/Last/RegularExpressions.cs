@@ -65,7 +65,7 @@ namespace Last
 
             if (new Regex(SYSTEM_CRASH).IsMatch(line))
             { 
-                return "system crash";
+                return "systemcrash";
             }
             else if (new Regex(SYSTEM_SHUTDOWN).IsMatch(line))
             { 
@@ -73,19 +73,19 @@ namespace Last
             }
             else if (new Regex(COMPLETE_KNOWN_TERMINAL_SYSTEM_CRASH).IsMatch(line))
             { 
-                return "complete log in system crash";
+                return "complete";
             }
             else if (new Regex(COMPLETE_KNOWN_TERMINAL_KNOWN_LOGOFF).IsMatch(line))
             { 
-                return "complete log in from known terminal and known log off time";
+                return "complete";
             }
             else if (new Regex(COMPLETE_UNKNOWN_TERMINAL_KNOWN_LOGOFF).IsMatch(line))
             {
-                return "complete log in from unknown terminal";
+                return "complete";
             }
             else if (new Regex(INCOMPLETE_LOGIN_KNOWN_TERMINAL).IsMatch(line))
             {
-                return "Incomplete Log in";
+                return "incomplete";
             }
             else
             {

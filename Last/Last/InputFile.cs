@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 
 
 namespace Last
@@ -30,7 +31,8 @@ namespace Last
             int counter = 0;
             String line;
             //Field currentLine = new Field();
-            StreamWriter xmlOutput = new StreamWriter();
+            XmlTextWriter xWriter = new XmlTextWriter(@"C:\Users\Hero\Documents\Visual Studio 2015\Projects\Last\Last\output.xml", Encoding.UTF8);
+            xWriter.Formatting = Formatting.Indented;
 
             try
             {
@@ -40,12 +42,18 @@ namespace Last
                 {
                     //Console.WriteLine(line);
                     //currentLine.getFields(line);
-                    Console.WriteLine("<" + RegularExpressions.getRecordType(line) + ">" + line + "</" + RegularExpressions.getRecordType(line) + ">");
-                    
+                    xWriter.WriteStartElement("session");
+                    xWriter.WriteStartElement(RegularExpressions.getRecordType(line));
+                    xWriter.WriteString(line);
+                    xWriter.WriteEndElement();
+                    xWriter.WriteEndElement();
+                    //Console.WriteLine("<" + RegularExpressions.getRecordType(line) + ">" + line + "</" + RegularExpressions.getRecordType(line) + ">");
+
                     counter++;
                 }
 
                 file.Close();
+                
 
                 Console.ReadLine();
             }
@@ -55,6 +63,7 @@ namespace Last
                 throw;
             }
 
+            xWriter.Close();
         }
     }
 }
