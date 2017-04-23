@@ -57,91 +57,43 @@ namespace Last
         private static string INCOMPLETE_LOGIN_KNOWN_TERMINAL = username + @"\s+" + terminal + @"\s+" + LogTime + @"\s+" + loged_in + @"\s+" + host;
 
 
-        public static string isSystemCrash(String line)
+
+
+        public static string getRecordType(String line)
         {
-            string type = null;
-            regex = new Regex(SYSTEM_CRASH);
-            Match match = regex.Match(line);
-            if (match.Success)
-                type = "SYSTEM CRASH";
+            String rec_type = null;
 
-            return type;
-
-
-
+            if (new Regex(SYSTEM_CRASH).IsMatch(line))
+            { 
+                return "system crash";
+            }
+            else if (new Regex(SYSTEM_SHUTDOWN).IsMatch(line))
+            { 
+                return "system shutdown";
+            }
+            else if (new Regex(COMPLETE_KNOWN_TERMINAL_SYSTEM_CRASH).IsMatch(line))
+            { 
+                return "complete log in system crash";
+            }
+            else if (new Regex(COMPLETE_KNOWN_TERMINAL_KNOWN_LOGOFF).IsMatch(line))
+            { 
+                return "complete log in from known terminal and known log off time";
+            }
+            else if (new Regex(COMPLETE_UNKNOWN_TERMINAL_KNOWN_LOGOFF).IsMatch(line))
+            {
+                return "complete log in from unknown terminal";
+            }
+            else if (new Regex(INCOMPLETE_LOGIN_KNOWN_TERMINAL).IsMatch(line))
+            {
+                return "Incomplete Log in";
+            }
+            else
+            {
+                return "none";
+            }
 
         }
 
-        public static string isSystemShutdown(String line)
-        {
-            string type = null;
-            regex = new Regex(SYSTEM_SHUTDOWN);
-            Match match = regex.Match(line);
-            if (match.Success)
-                type = "SYSTEM SHUTDOWN";
-
-            return type;
-
-
-        }
-
-        public static string isCompleteLogInSessionCrash(String line)
-        {
-            string type = null;
-            regex = new Regex(COMPLETE_KNOWN_TERMINAL_SYSTEM_CRASH);
-            Match match = regex.Match(line);
-            if (match.Success)
-                type = "COMPLETE KNOWN_TERMINAL_SYSTEM_CRASH";
-
-            return type;
-
-
-        }
-
-        public static string isCompleteKnownLogTimes(String line)
-        {
-            string type = null;
-            regex = new Regex(COMPLETE_KNOWN_TERMINAL_KNOWN_LOGOFF);
-            Match match = regex.Match(line);
-            if (match.Success)
-                type = "COMPLETE KNOWN_TERMINAL KNOWN LOG OFF";
-
-            return type;
-
-
-        }
-
-        public static string isCompleteUnknownTerminal(String line)
-        {
-            string type = null;
-            regex = new Regex(COMPLETE_UNKNOWN_TERMINAL_KNOWN_LOGOFF);
-            Match match = regex.Match(line);
-            if (match.Success)
-                type = "COMPLETE UKNOWN_TERMINAL KNOWN LOG OFF";
-
-            return type;
-
-
-        }
-
-        public static string isIncomplete(String line)
-        {
-            string type = null;
-            regex = new Regex(INCOMPLETE_LOGIN_KNOWN_TERMINAL);
-            Match match = regex.Match(line);
-            if (match.Success)
-                type = "INCOMPLETE KNOWN_TERMINAL KNOWN LOG OFF";
-
-            return type;
-
-
-        }
-
-
-
-
-
-
-    }
+     }
 
 }

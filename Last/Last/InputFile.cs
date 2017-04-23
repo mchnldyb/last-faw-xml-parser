@@ -30,6 +30,7 @@ namespace Last
             int counter = 0;
             String line;
             //Field currentLine = new Field();
+            StreamWriter xmlOutput = new StreamWriter();
 
             try
             {
@@ -39,12 +40,8 @@ namespace Last
                 {
                     //Console.WriteLine(line);
                     //currentLine.getFields(line);
-                    Console.WriteLine(RegularExpressions.isSystemCrash(line));
-                    Console.WriteLine(RegularExpressions.isSystemShutdown(line));
-                    Console.WriteLine(RegularExpressions.isCompleteKnownLogTimes(line));
-                    Console.WriteLine(RegularExpressions.isCompleteLogInSessionCrash(line));
-                    Console.WriteLine(RegularExpressions.isIncomplete(line));
-                    Console.WriteLine(RegularExpressions.isCompleteUnknownTerminal(line));
+                    Console.WriteLine("<" + RegularExpressions.getRecordType(line) + ">" + line + "</" + RegularExpressions.getRecordType(line) + ">");
+                    
                     counter++;
                 }
 
