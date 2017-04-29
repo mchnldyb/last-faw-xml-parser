@@ -43,10 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Field.cs" />
     <Compile Include="InputFile.cs" />
+    <Compile Include="Parser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegularExpressions.cs" />
+    <Compile Include="Session.cs" />
+    <Compile Include="Terminal.cs" />
+    <Compile Include="Username.cs" />
+    <Compile Include="XMLParse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

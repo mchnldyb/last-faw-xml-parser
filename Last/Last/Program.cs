@@ -10,8 +10,10 @@ namespace Last
     {
         static void Main(string[] args)
         {
-            InputFile myInput = new InputFile(@"validdata.txt");
-            myInput.readInputFile();
+            InputFile infFile = new InputFile(@"validdata.txt");
+            Session mySession = new Session(infFile);
+            mySession.readSessions();
+           
         }
     }
 }

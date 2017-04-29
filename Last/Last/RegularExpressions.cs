@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 using System.Net.NetworkInformation;
 using System.Text;
@@ -92,6 +93,31 @@ namespace Last
                 return "none";
             }
 
+        }
+
+        public static string getPattern(string _caller)
+        {
+            string pattern = null;
+
+            switch (_caller)
+            {
+                case "username":
+                    pattern = username;
+                    break;
+
+                case "terminal":
+                    pattern = terminal;
+                    break;
+                case "duration":
+                    pattern = duration;
+                    break;
+                case "remote-terminal":
+                    pattern = host;
+                    break;
+
+            }
+
+            return pattern;
         }
 
      }
