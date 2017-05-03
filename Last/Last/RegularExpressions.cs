@@ -114,6 +114,9 @@ namespace Last
                 case "remote-terminal":
                     pattern = host;
                     break;
+                case "date":
+                    pattern = LogTime;
+                    break;
 
             }
 

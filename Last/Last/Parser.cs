@@ -13,6 +13,14 @@ namespace Last
     {
         Username  mUsername = new Username();
         Terminal mTerminal = new Terminal();
+        Date mDate = new Date();
+        Duration mDuration = new Duration();
+        RemoteTerminal mRemoteTerminal = new RemoteTerminal();
+
+        private XDocument document;
+
+        private String outputFilePath;
+
 
 
         public Parser()
@@ -20,13 +28,7 @@ namespace Last
             this.createOutputFile();
         }
 
-        private XDocument document;
-
-        private String outputFilePath;
-
-
-      //parse files here
-
+   
         public void parseXML(String line, String type)
         {
             switch (type)
@@ -34,10 +36,31 @@ namespace Last
                 case "complete":
                     {
                         document = XDocument.Load(outputFilePath);
-                        document.Element("Sessions").Add(new XElement(type, new XElement(mUsername.GetType().Name,new XText(mUsername.getField(line))),new XElement(mTerminal.GetType().Name, new XText(mTerminal.getField(line)))));
+                        document.Element("Sessions").Add(new XElement(type,
+                                                        new XElement(mUsername.GetType().Name, new XText(mUsername.getField(line)))
+                                                        , new XElement(mTerminal.GetType().Name, new XText(mTerminal.getField(line)))
+                                                        , new XElement(mDate.GetType().Name, new XText(mDate.getField(line)))
+                                                        , new XElement(mDuration.GetType().Name, new XText(mDuration.getField(line)))
+                                                        , new XElement(mRemoteTerminal.GetType().Name, new XText(mRemoteTerminal.getField(line)))
+                                                        )); 
+                            
                         document.Save(outputFilePath);
                         break;
                     }
+
+                case "incomplete":
+                {
+                    document = XDocument.Load(outputFilePath);
+                    document.Element("Sessions").Add(new XElement(type, 
+                                                             new XElement(mUsername.GetType().Name,new XText(mUsername.getField(line)))
+                                                            , new XElement(mTerminal.GetType().Name, new XText(mTerminal.getField(line)))
+                                                            , new XElement(mDate.GetType().Name, new XText(mDate.getField(line)))
+                                                            , new XElement(mDuration.GetType().Name, new XText(mDuration.getField(line)))
+                                                            , new XElement(mRemoteTerminal.GetType().Name, new XText(mRemoteTerminal.getField(line)))
+                                                            ));
+                    document.Save(outputFilePath);
+                    break;
+                }
 
 
 

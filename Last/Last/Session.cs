@@ -11,9 +11,9 @@ namespace Last
 {
     class Session
     {
-        private String type;
+     
         private InputFile lastInputFile;
-        Parser mParser = new Parser(); 
+        private Parser mParser = new Parser(); 
 
 
         public Session(InputFile inputFile)
@@ -33,9 +33,9 @@ namespace Last
                     break;
                 }
 
-                case "systemcrash":
+                case "incomplete":
                 {
-                     //mParser.parseXML(singleSession, "systemcrash");
+                     mParser.parseXML(singleSession,"incomplete");
                      break;
                 }
 

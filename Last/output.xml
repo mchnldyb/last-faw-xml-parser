@@ -3,3569 +3,3158 @@
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 17:51:25 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>phil</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 17:43:53 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>someone</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Sat Oct 29 17:41:17 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
+  <incomplete>
+    <Username>phil</Username>
+    <Terminal>pts/11</Terminal>
+    <Date>Sat Oct 29 20:31:13 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>tn-76-7-147-33.dhcp.embarqhsd.net</RemoteTerminal>
+  </incomplete>
+  <incomplete>
+    <Username>pll</Username>
+    <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 20:24:57 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
+  </incomplete>
+  <incomplete>
+    <Username>daughertyb</Username>
+    <Terminal>pts/10</Terminal>
+    <Date>Sat Oct 29 20:18:05 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
+  </incomplete>
+  <incomplete>
+    <Username>gillilandr</Username>
+    <Terminal>pts/9</Terminal>
+    <Date>Sat Oct 29 19:27:59 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
+  </incomplete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Sat Oct 29 19:21:48 2016</Date>
+    <Duration>(00:05)</Duration>
+    <RemoteTerminal>c-68-57-101-173.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
+  <incomplete>
+    <Username>sentellm</Username>
+    <Terminal>pts/8</Terminal>
+    <Date>Sat Oct 29 19:19:05 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
+  </incomplete>
+  <incomplete>
+    <Username>gillilandr</Username>
+    <Terminal>pts/7</Terminal>
+    <Date>Sat Oct 29 19:18:28 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
+  </incomplete>
+  <incomplete>
+    <Username>pll</Username>
+    <Terminal>pts/0</Terminal>
+    <Date>Sat Oct 29 18:54:06 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>c-50-142-105-122.hsd1.tn.comcast.net</RemoteTerminal>
+  </incomplete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 17:54:24 2016</Date>
+    <Duration>(02:27)</Duration>
+    <RemoteTerminal>c-50-142-105-122.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 17:51:25 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 17:43:53 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Sat Oct 29 17:41:17 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
+  <incomplete>
+    <Username>jigsawsolutions</Username>
+    <Terminal>pts/6</Terminal>
+    <Date>Sat Oct 29 17:38:02 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
+  </incomplete>
   <complete>
     <Username>guthriee</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 17:37:45 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 16:03:39 2016</Date>
+    <Duration>(00:23)</Duration>
+    <RemoteTerminal>c-68-57-101-173.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>zndh4</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 16:02:54 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>c-68-57-101-173.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 16:01:34 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 16:00:20 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 15:59:36 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
+  <incomplete>
+    <Username>pll</Username>
+    <Terminal>pts/5</Terminal>
+    <Date>Sat Oct 29 15:16:25 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
+  </incomplete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Sat Oct 29 15:06:25 2016</Date>
+    <Duration>(00:09)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Sat Oct 29 15:04:47 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Sat Oct 29 15:03:55 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Sat Oct 29 15:03:55 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
+  <incomplete>
+    <Username>pll</Username>
+    <Terminal>pts/4</Terminal>
+    <Date>Sat Oct 29 15:02:34 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
+  </incomplete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 15:00:52 2016</Date>
+    <Duration>(00:48)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Sat Oct 29 15:00:19 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 14:58:00 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 14:48:15 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>97-81-12-180.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 14:41:11 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>97-81-12-180.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 14:37:00 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Sat Oct 29 14:20:22 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 14:19:59 2016</Date>
+    <Duration>(00:15)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
+  <incomplete>
+    <Username>jigsawsolutions</Username>
+    <Terminal>pts/3</Terminal>
+    <Date>Sat Oct 29 13:07:57 2016</Date>
+    <Duration></Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
+  </incomplete>
   <complete>
     <Username>leen01</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 12:42:39 2016</Date>
+    <Duration>(00:28)</Duration>
+    <RemoteTerminal>151.141.216.99</RemoteTerminal>
   </complete>
   <complete>
     <Username>sentellm</Username>
     <Terminal>pts/1</Terminal>
+    <Date>Sat Oct 29 12:37:20 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>sentellm</Username>
     <Terminal>pts/1</Terminal>
+    <Date>Sat Oct 29 11:51:14 2016</Date>
+    <Duration>(00:46)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 11:07:42 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>c-73-19-231-15.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>nielsen</Username>
     <Terminal>pts/1</Terminal>
+    <Date>Sat Oct 29 10:56:11 2016</Date>
+    <Duration>(00:27)</Duration>
+    <RemoteTerminal>c-73-19-231-15.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/0</Terminal>
+    <Date>Sat Oct 29 10:27:00 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>sentellm</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Sat Oct 29 01:39:25 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/3</Terminal>
+    <Date>Fri Oct 28 22:32:55 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jinkst</Username>
     <Terminal>pts/1</Terminal>
+    <Date>Fri Oct 28 20:42:22 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/0</Terminal>
+    <Date>Fri Oct 28 19:04:14 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jigsawsolutions</Username>
     <Terminal>pts/0</Terminal>
+    <Date>Fri Oct 28 18:21:28 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>97-81-12-180.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Fri Oct 28 16:01:58 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Fri Oct 28 16:01:58 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Fri Oct 28 16:01:09 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Fri Oct 28 16:00:49 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>sentellm</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Fri Oct 28 16:00:46 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Fri Oct 28 16:00:46 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>sentellm</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Fri Oct 28 15:59:07 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jordand1</Username>
     <Terminal>pts/10</Terminal>
+    <Date>Fri Oct 28 13:47:05 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jordand1</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Fri Oct 28 13:47:04 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Fri Oct 28 13:41:04 2016</Date>
+    <Duration>(02:20)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Fri Oct 28 13:07:33 2016</Date>
+    <Duration>(02:53)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Fri Oct 28 12:50:56 2016</Date>
+    <Duration>(00:16)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Fri Oct 28 12:50:30 2016</Date>
+    <Duration>(03:10)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lis002</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Fri Oct 28 12:03:32 2016</Date>
+    <Duration>(04:29)</Duration>
+    <RemoteTerminal>sli.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Fri Oct 28 12:02:47 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Fri Oct 28 12:02:47 2016</Date>
+    <Duration>(03:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/3</Terminal>
+    <Date>Fri Oct 28 11:50:14 2016</Date>
+    <Duration>(07:13)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Fri Oct 28 11:50:14 2016</Date>
+    <Duration>(04:11)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/0</Terminal>
+    <Date>Fri Oct 28 10:34:14 2016</Date>
+    <Duration>(05:34)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lis002</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Fri Oct 28 10:11:03 2016</Date>
+    <Duration>(00:21)</Duration>
+    <RemoteTerminal>76.23.89.220</RemoteTerminal>
   </complete>
   <complete>
     <Username>lis002</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Fri Oct 28 09:13:59 2016</Date>
+    <Duration>(00:40)</Duration>
+    <RemoteTerminal>76.23.89.220</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/1</Terminal>
+    <Date>Fri Oct 28 09:07:42 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/0</Terminal>
+    <Date>Fri Oct 28 09:07:42 2016</Date>
+    <Duration>(01:26)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>phil</Username>
     <Terminal>pts/0</Terminal>
+    <Date>Fri Oct 28 08:51:15 2016</Date>
+    <Duration>(00:07)</Duration>
+    <RemoteTerminal>68-115-151-140.static.spbg.sc.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>phil</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Fri Oct 28 01:44:01 2016</Date>
+    <Duration>(02:10)</Duration>
+    <RemoteTerminal>68-115-151-140.static.spbg.sc.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>pll</Username>
     <Terminal>pts/1</Terminal>
+    <Date>Thu Oct 27 19:35:54 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jinkst</Username>
     <Terminal>pts/0</Terminal>
+    <Date>Thu Oct 27 18:17:53 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>skinnert</Username>
     <Terminal>pts/0</Terminal>
+    <Date>Thu Oct 27 16:22:59 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>151.141.241.141</RemoteTerminal>
   </complete>
   <complete>
     <Username>root</Username>
     <Terminal>pts/0</Terminal>
+    <Date>Thu Oct 27 15:55:16 2016</Date>
+    <Duration>(00:19)</Duration>
+    <RemoteTerminal>:0.0</RemoteTerminal>
   </complete>
   <complete>
     <Username>root</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Thu Oct 27 15:31:34 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>:0.0</RemoteTerminal>
   </complete>
   <complete>
     <Username>root</Username>
     <Terminal>tty1</Terminal>
+    <Date>Thu Oct 27 15:31:26 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>:0</RemoteTerminal>
   </complete>
   <complete>
     <Username>mcmeen</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Thu Oct 27 13:35:05 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>etsu908635.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zmde1</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Thu Oct 27 11:50:53 2016</Date>
+    <Duration>(00:23)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Thu Oct 27 10:50:25 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Thu Oct 27 10:45:08 2016</Date>
+    <Duration>(00:06)</Duration>
+    <RemoteTerminal>151.141.244.50</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Thu Oct 27 10:41:51 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>151.141.244.50</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Thu Oct 27 10:10:15 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Thu Oct 27 10:09:54 2016</Date>
+    <Duration>(00:26)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Thu Oct 27 10:09:54 2016</Date>
+    <Duration>(02:11)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jacksonre</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Thu Oct 27 09:56:27 2016</Date>
+    <Duration>(00:45)</Duration>
+    <RemoteTerminal>(00:45)</RemoteTerminal>
   </complete>
   <complete>
     <Username>jacksonre</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Thu Oct 27 09:55:13 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>(00:00)</RemoteTerminal>
   </complete>
   <complete>
     <Username>jacksonre</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Thu Oct 27 09:54:58 2016</Date>
+    <Duration>(00:19)</Duration>
+    <RemoteTerminal>rnh49111.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zmde1</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Thu Oct 27 09:53:34 2016</Date>
+    <Duration>(00:40)</Duration>
+    <RemoteTerminal>(00:40)</RemoteTerminal>
   </complete>
   <complete>
     <Username>friendc</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Thu Oct 27 09:50:12 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>rnh49122.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hardyj</Username>
     <Terminal>pts/65</Terminal>
+    <Date>Thu Oct 27 09:42:34 2016</Date>
+    <Duration>(00:14)</Duration>
+    <RemoteTerminal>(00:14)</RemoteTerminal>
   </complete>
   <complete>
     <Username>hardyj</Username>
     <Terminal>pts/64</Terminal>
+    <Date>Thu Oct 27 09:42:11 2016</Date>
+    <Duration>(00:19)</Duration>
+    <RemoteTerminal>rnh49126.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zcmc53</Username>
     <Terminal>pts/31</Terminal>
+    <Date>Thu Oct 27 09:41:50 2016</Date>
+    <Duration>(00:59)</Duration>
+    <RemoteTerminal>(00:59)</RemoteTerminal>
   </complete>
   <complete>
     <Username>zcmc53</Username>
     <Terminal>pts/38</Terminal>
+    <Date>Thu Oct 27 09:41:31 2016</Date>
+    <Duration>(01:01)</Duration>
+    <RemoteTerminal>rnh49114.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hardyj</Username>
     <Terminal>pts/31</Terminal>
+    <Date>Thu Oct 27 09:41:06 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>rnh49126.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hessl</Username>
     <Terminal>pts/63</Terminal>
+    <Date>Thu Oct 27 09:36:48 2016</Date>
+    <Duration>(02:05)</Duration>
+    <RemoteTerminal>rnh49115.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mckinneyla</Username>
     <Terminal>pts/62</Terminal>
+    <Date>Thu Oct 27 09:35:27 2016</Date>
+    <Duration>(00:13)</Duration>
+    <RemoteTerminal>rnh49128.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hessl</Username>
     <Terminal>pts/61</Terminal>
+    <Date>Thu Oct 27 09:34:42 2016</Date>
+    <Duration>(02:07)</Duration>
+    <RemoteTerminal>(02:07)</RemoteTerminal>
   </complete>
   <complete>
     <Username>hessl</Username>
     <Terminal>pts/60</Terminal>
+    <Date>Thu Oct 27 09:31:29 2016</Date>
+    <Duration>(02:10)</Duration>
+    <RemoteTerminal>rnh49115.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/40</Terminal>
+    <Date>Thu Oct 27 09:15:02 2016</Date>
+    <Duration>(00:42)</Duration>
+    <RemoteTerminal>(00:42)</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/59</Terminal>
+    <Date>Thu Oct 27 09:09:00 2016</Date>
+    <Duration>(01:28)</Duration>
+    <RemoteTerminal>(01:28)</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/60</Terminal>
+    <Date>Thu Oct 27 09:08:25 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>(00:00)</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/59</Terminal>
+    <Date>Thu Oct 27 09:07:47 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>(00:00)</RemoteTerminal>
   </complete>
   <complete>
     <Username>mooretw1</Username>
     <Terminal>pts/58</Terminal>
+    <Date>Thu Oct 27 09:07:15 2016</Date>
+    <Duration>(01:26)</Duration>
+    <RemoteTerminal>(01:26)</RemoteTerminal>
   </complete>
   <complete>
     <Username>mooretw1</Username>
     <Terminal>pts/57</Terminal>
+    <Date>Thu Oct 27 09:06:44 2016</Date>
+    <Duration>(01:27)</Duration>
+    <RemoteTerminal>rnh49125.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>friendc</Username>
     <Terminal>pts/56</Terminal>
+    <Date>Thu Oct 27 09:04:07 2016</Date>
+    <Duration>(00:41)</Duration>
+    <RemoteTerminal>(00:41)</RemoteTerminal>
   </complete>
   <complete>
     <Username>friendc</Username>
     <Terminal>pts/55</Terminal>
+    <Date>Thu Oct 27 09:03:57 2016</Date>
+    <Duration>(00:45)</Duration>
+    <RemoteTerminal>rnh49122.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>blevinsjt</Username>
     <Terminal>pts/53</Terminal>
+    <Date>Thu Oct 27 09:03:01 2016</Date>
+    <Duration>(01:01)</Duration>
+    <RemoteTerminal>(01:01)</RemoteTerminal>
   </complete>
   <complete>
     <Username>fraziered</Username>
     <Terminal>pts/52</Terminal>
+    <Date>Thu Oct 27 09:03:00 2016</Date>
+    <Duration>(01:02)</Duration>
+    <RemoteTerminal>(01:02)</RemoteTerminal>
   </complete>
   <complete>
     <Username>fraziered</Username>
     <Terminal>pts/52</Terminal>
+    <Date>Thu Oct 27 09:02:45 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>(00:00)</RemoteTerminal>
   </complete>
   <complete>
     <Username>clarkhs</Username>
     <Terminal>pts/51</Terminal>
+    <Date>Thu Oct 27 09:02:42 2016</Date>
+    <Duration>(01:05)</Duration>
+    <RemoteTerminal>(01:05)</RemoteTerminal>
   </complete>
   <complete>
     <Username>fraziered</Username>
     <Terminal>pts/50</Terminal>
+    <Date>Thu Oct 27 09:02:38 2016</Date>
+    <Duration>(01:02)</Duration>
+    <RemoteTerminal>rnh49119.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/47</Terminal>
+    <Date>Thu Oct 27 09:02:29 2016</Date>
+    <Duration>(01:35)</Duration>
+    <RemoteTerminal>rnh49104.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>clarkhs</Username>
     <Terminal>pts/46</Terminal>
+    <Date>Thu Oct 27 09:02:27 2016</Date>
+    <Duration>(01:09)</Duration>
+    <RemoteTerminal>rnh49108.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>blevinsjt</Username>
     <Terminal>pts/45</Terminal>
+    <Date>Thu Oct 27 09:02:25 2016</Date>
+    <Duration>(01:03)</Duration>
+    <RemoteTerminal>(01:03)</RemoteTerminal>
   </complete>
   <complete>
     <Username>carmackj</Username>
     <Terminal>pts/44</Terminal>
+    <Date>Thu Oct 27 09:02:21 2016</Date>
+    <Duration>(00:47)</Duration>
+    <RemoteTerminal>(00:47)</RemoteTerminal>
   </complete>
   <complete>
     <Username>munseymk</Username>
     <Terminal>pts/43</Terminal>
+    <Date>Thu Oct 27 09:02:21 2016</Date>
+    <Duration>(00:49)</Duration>
+    <RemoteTerminal>(00:49)</RemoteTerminal>
   </complete>
   <complete>
     <Username>jacksonre</Username>
     <Terminal>pts/42</Terminal>
+    <Date>Thu Oct 27 09:02:15 2016</Date>
+    <Duration>(00:52)</Duration>
+    <RemoteTerminal>rnh49111.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonbw</Username>
     <Terminal>pts/39</Terminal>
+    <Date>Thu Oct 27 09:02:15 2016</Date>
+    <Duration>(00:45)</Duration>
+    <RemoteTerminal>(00:45)</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/41</Terminal>
+    <Date>Thu Oct 27 09:02:08 2016</Date>
+    <Duration>(01:13)</Duration>
+    <RemoteTerminal>(01:13)</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/40</Terminal>
+    <Date>Thu Oct 27 09:02:07 2016</Date>
+    <Duration>(00:10)</Duration>
+    <RemoteTerminal>(00:10)</RemoteTerminal>
   </complete>
   <complete>
     <Username>hardyj</Username>
     <Terminal>pts/38</Terminal>
+    <Date>Thu Oct 27 09:02:06 2016</Date>
+    <Duration>(00:39)</Duration>
+    <RemoteTerminal>(00:39)</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonbw</Username>
     <Terminal>pts/39</Terminal>
+    <Date>Thu Oct 27 09:01:53 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>(00:00)</RemoteTerminal>
   </complete>
   <complete>
     <Username>munseymk</Username>
     <Terminal>pts/38</Terminal>
+    <Date>Thu Oct 27 09:01:51 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>(00:00)</RemoteTerminal>
   </complete>
   <complete>
     <Username>zickgraf</Username>
     <Terminal>pts/37</Terminal>
+    <Date>Thu Oct 27 09:01:50 2016</Date>
+    <Duration>(00:52)</Duration>
+    <RemoteTerminal>(00:52)</RemoteTerminal>
   </complete>
   <complete>
     <Username>carmackj</Username>
     <Terminal>pts/36</Terminal>
+    <Date>Thu Oct 27 09:01:43 2016</Date>
+    <Duration>(00:54)</Duration>
+    <RemoteTerminal>rnh49107.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>pecorini</Username>
     <Terminal>pts/35</Terminal>
+    <Date>Thu Oct 27 09:01:43 2016</Date>
+    <Duration>(00:46)</Duration>
+    <RemoteTerminal>(00:46)</RemoteTerminal>
   </complete>
   <complete>
     <Username>mckinneyla</Username>
     <Terminal>pts/34</Terminal>
+    <Date>Thu Oct 27 09:01:42 2016</Date>
+    <Duration>(00:46)</Duration>
+    <RemoteTerminal>(00:46)</RemoteTerminal>
   </complete>
   <complete>
     <Username>pucketto</Username>
     <Terminal>pts/33</Terminal>
+    <Date>Thu Oct 27 09:01:37 2016</Date>
+    <Duration>(00:49)</Duration>
+    <RemoteTerminal>(00:49)</RemoteTerminal>
   </complete>
   <complete>
     <Username>burdettj</Username>
     <Terminal>pts/32</Terminal>
+    <Date>Thu Oct 27 09:01:31 2016</Date>
+    <Duration>(00:41)</Duration>
+    <RemoteTerminal>(00:41)</RemoteTerminal>
   </complete>
   <complete>
     <Username>hardyj</Username>
     <Terminal>pts/31</Terminal>
+    <Date>Thu Oct 27 09:01:30 2016</Date>
+    <Duration>(00:39)</Duration>
+    <RemoteTerminal>rnh49126.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mcreynoldsh</Username>
     <Terminal>pts/30</Terminal>
+    <Date>Thu Oct 27 09:01:23 2016</Date>
+    <Duration>(01:07)</Duration>
+    <RemoteTerminal>(01:07)</RemoteTerminal>
   </complete>
   <complete>
     <Username>zamc48</Username>
     <Terminal>pts/28</Terminal>
+    <Date>Thu Oct 27 09:01:22 2016</Date>
+    <Duration>(00:55)</Duration>
+    <RemoteTerminal>(00:55)</RemoteTerminal>
   </complete>
   <complete>
     <Username>zcee10</Username>
     <Terminal>pts/27</Terminal>
+    <Date>Thu Oct 27 09:01:22 2016</Date>
+    <Duration>(00:47)</Duration>
+    <RemoteTerminal>(00:47)</RemoteTerminal>
   </complete>
   <complete>
     <Username>zickgraf</Username>
     <Terminal>pts/25</Terminal>
+    <Date>Thu Oct 27 09:01:09 2016</Date>
+    <Duration>(00:53)</Duration>
+    <RemoteTerminal>rnh49127.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>husaina</Username>
     <Terminal>pts/24</Terminal>
+    <Date>Thu Oct 27 09:01:04 2016</Date>
+    <Duration>(01:23)</Duration>
+    <RemoteTerminal>(01:23)</RemoteTerminal>
   </complete>
   <complete>
     <Username>burdettj</Username>
     <Terminal>pts/22</Terminal>
+    <Date>Thu Oct 27 09:00:47 2016</Date>
+    <Duration>(00:42)</Duration>
+    <RemoteTerminal>rnh49110.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>pecorini</Username>
     <Terminal>pts/21</Terminal>
+    <Date>Thu Oct 27 09:00:36 2016</Date>
+    <Duration>(00:47)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mckinneyla</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Thu Oct 27 09:00:34 2016</Date>
+    <Duration>(00:47)</Duration>
+    <RemoteTerminal>rnh49128.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mistrettam</Username>
     <Terminal>pts/18</Terminal>
+    <Date>Thu Oct 27 09:00:25 2016</Date>
+    <Duration>(00:54)</Duration>
+    <RemoteTerminal>rnh49121.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>munseymk</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Thu Oct 27 09:00:17 2016</Date>
+    <Duration>(00:51)</Duration>
+    <RemoteTerminal>rnh49130.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>husaina</Username>
     <Terminal>pts/17</Terminal>
+    <Date>Thu Oct 27 08:57:48 2016</Date>
+    <Duration>(01:26)</Duration>
+    <RemoteTerminal>rnh49106.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>barrettm</Username>
     <Terminal>pts/16</Terminal>
+    <Date>Thu Oct 27 08:57:40 2016</Date>
+    <Duration>(01:19)</Duration>
+    <RemoteTerminal>rnh49123.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/15</Terminal>
+    <Date>Thu Oct 27 08:56:55 2016</Date>
+    <Duration>(01:01)</Duration>
+    <RemoteTerminal>rnh49112.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>munseymk</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Thu Oct 27 08:56:11 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>rnh49130.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zamc48</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Thu Oct 27 08:56:04 2016</Date>
+    <Duration>(01:10)</Duration>
+    <RemoteTerminal>rnh49103.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonbw</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Thu Oct 27 08:55:25 2016</Date>
+    <Duration>(00:52)</Duration>
+    <RemoteTerminal>rnh49118.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>blevinsjt</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Thu Oct 27 08:55:19 2016</Date>
+    <Duration>(01:10)</Duration>
+    <RemoteTerminal>rnh49120.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>pucketto</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Thu Oct 27 08:53:36 2016</Date>
+    <Duration>(00:57)</Duration>
+    <RemoteTerminal>rnh49131.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zickgraf</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Thu Oct 27 08:49:03 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>rnh49127.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Thu Oct 27 08:46:58 2016</Date>
+    <Duration>(01:28)</Duration>
+    <RemoteTerminal>rnh49113.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>jinkst</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Thu Oct 27 08:46:42 2016</Date>
+    <Duration>(01:35)</Duration>
+    <RemoteTerminal>rnh49105.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mcreynoldsh</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Thu Oct 27 08:45:24 2016</Date>
+    <Duration>(01:23)</Duration>
+    <RemoteTerminal>rnh49109.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zcee10</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Thu Oct 27 08:43:22 2016</Date>
+    <Duration>(01:13)</Duration>
+    <RemoteTerminal>rnh49102.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>clarkhs</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Thu Oct 27 08:42:09 2016</Date>
+    <Duration>(03:32)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>zmde1</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Thu Oct 27 08:34:46 2016</Date>
+    <Duration>(01:17)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>root</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Thu Oct 27 08:00:17 2016</Date>
+    <Duration>(00:07)</Duration>
+    <RemoteTerminal>:0.0</RemoteTerminal>
   </complete>
   <complete>
     <Username>root</Username>
     <Terminal>tty1</Terminal>
+    <Date>Thu Oct 27 08:00:03 2016</Date>
+    <Duration>(00:08)</Duration>
+    <RemoteTerminal>:0</RemoteTerminal>
   </complete>
   <complete>
     <Username>phil</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Thu Oct 27 04:23:35 2016</Date>
+    <Duration>(00:13)</Duration>
+    <RemoteTerminal>tn-76-7-147-33.dhcp.embarqhsd.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Wed Oct 26 23:46:37 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>phil</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Wed Oct 26 23:46:31 2016</Date>
+    <Duration>(02:15)</Duration>
+    <RemoteTerminal>etsu96179.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Wed Oct 26 23:46:30 2016</Date>
+    <Duration>(06:36)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 23:46:28 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>butlerjm1</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Wed Oct 26 20:51:02 2016</Date>
+    <Duration>(01:45)</Duration>
+    <RemoteTerminal>24-151-164-165.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Wed Oct 26 20:06:20 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Wed Oct 26 20:06:19 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>whitney</Username>
     <Terminal>pts/36</Terminal>
+    <Date>Wed Oct 26 18:17:25 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lightc</Username>
     <Terminal>pts/48</Terminal>
+    <Date>Wed Oct 26 18:03:45 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lowerc</Username>
     <Terminal>pts/27</Terminal>
+    <Date>Wed Oct 26 17:52:53 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>boggsj1</Username>
     <Terminal>pts/33</Terminal>
+    <Date>Wed Oct 26 17:45:18 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/30</Terminal>
+    <Date>Wed Oct 26 17:38:04 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/30</Terminal>
+    <Date>Wed Oct 26 17:37:32 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>boggsj1</Username>
     <Terminal>pts/42</Terminal>
+    <Date>Wed Oct 26 17:37:29 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>boggsj1</Username>
     <Terminal>pts/30</Terminal>
+    <Date>Wed Oct 26 17:36:52 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>boggsj1</Username>
     <Terminal>pts/59</Terminal>
+    <Date>Wed Oct 26 17:35:55 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daycc1</Username>
     <Terminal>pts/51</Terminal>
+    <Date>Wed Oct 26 17:35:13 2016</Date>
+    <Duration>(00:57)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daycc1</Username>
     <Terminal>pts/51</Terminal>
+    <Date>Wed Oct 26 17:34:55 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/33</Terminal>
+    <Date>Wed Oct 26 17:34:47 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daycc1</Username>
     <Terminal>pts/51</Terminal>
+    <Date>Wed Oct 26 17:33:43 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lightc</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Wed Oct 26 17:33:31 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/59</Terminal>
+    <Date>Wed Oct 26 17:33:24 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>fabunmi</Username>
     <Terminal>pts/64</Terminal>
+    <Date>Wed Oct 26 17:32:46 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jinkst</Username>
     <Terminal>pts/34</Terminal>
+    <Date>Wed Oct 26 17:32:36 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>boggsj1</Username>
     <Terminal>pts/30</Terminal>
+    <Date>Wed Oct 26 17:32:14 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>reesehp</Username>
     <Terminal>pts/21</Terminal>
+    <Date>Wed Oct 26 17:31:59 2016</Date>
+    <Duration>(07:42)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/40</Terminal>
+    <Date>Wed Oct 26 17:31:37 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/24</Terminal>
+    <Date>Wed Oct 26 17:31:21 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lightc</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Wed Oct 26 17:31:03 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>boggsj1</Username>
     <Terminal>pts/63</Terminal>
+    <Date>Wed Oct 26 17:30:43 2016</Date>
+    <Duration>(00:05)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/59</Terminal>
+    <Date>Wed Oct 26 17:30:39 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/57</Terminal>
+    <Date>Wed Oct 26 17:30:31 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>mcmeen</Username>
     <Terminal>pts/62</Terminal>
+    <Date>Wed Oct 26 17:30:05 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/32</Terminal>
+    <Date>Wed Oct 26 17:29:59 2016</Date>
+    <Duration>(01:13)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>friendc</Username>
     <Terminal>pts/61</Terminal>
+    <Date>Wed Oct 26 17:29:32 2016</Date>
+    <Duration>(04:32)</Duration>
+    <RemoteTerminal>151.141.230.173</RemoteTerminal>
   </complete>
   <complete>
     <Username>robinsons1</Username>
     <Terminal>pts/60</Terminal>
+    <Date>Wed Oct 26 17:29:01 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/32</Terminal>
+    <Date>Wed Oct 26 17:28:33 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/24</Terminal>
+    <Date>Wed Oct 26 17:28:31 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/59</Terminal>
+    <Date>Wed Oct 26 17:28:08 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>munseymk</Username>
     <Terminal>pts/38</Terminal>
+    <Date>Wed Oct 26 17:28:07 2016</Date>
+    <Duration>(01:13)</Duration>
+    <RemoteTerminal>rnh49205.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/58</Terminal>
+    <Date>Wed Oct 26 17:28:01 2016</Date>
+    <Duration>(00:55)</Duration>
+    <RemoteTerminal>rnh49117.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>lowerc</Username>
     <Terminal>pts/43</Terminal>
+    <Date>Wed Oct 26 17:27:57 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lightc</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Wed Oct 26 17:27:29 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lightc</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Wed Oct 26 17:26:31 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>whitney</Username>
     <Terminal>pts/39</Terminal>
+    <Date>Wed Oct 26 17:26:19 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/38</Terminal>
+    <Date>Wed Oct 26 17:26:05 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lightc</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Wed Oct 26 17:26:04 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jinkst</Username>
     <Terminal>pts/57</Terminal>
+    <Date>Wed Oct 26 17:25:57 2016</Date>
+    <Duration>(00:04)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>butlerjm1</Username>
     <Terminal>pts/56</Terminal>
+    <Date>Wed Oct 26 17:25:50 2016</Date>
+    <Duration>(01:17)</Duration>
+    <RemoteTerminal>rnh49118.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>scruggsg</Username>
     <Terminal>pts/55</Terminal>
+    <Date>Wed Oct 26 17:25:39 2016</Date>
+    <Duration>(01:18)</Duration>
+    <RemoteTerminal>rnh49125.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>huy002</Username>
     <Terminal>pts/54</Terminal>
+    <Date>Wed Oct 26 17:25:36 2016</Date>
+    <Duration>(01:18)</Duration>
+    <RemoteTerminal>rnh49128.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>clarkhs</Username>
     <Terminal>pts/53</Terminal>
+    <Date>Wed Oct 26 17:25:32 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>leen01</Username>
     <Terminal>pts/52</Terminal>
+    <Date>Wed Oct 26 17:25:32 2016</Date>
+    <Duration>(01:18)</Duration>
+    <RemoteTerminal>rnh49119.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>daycc1</Username>
     <Terminal>pts/51</Terminal>
+    <Date>Wed Oct 26 17:24:50 2016</Date>
+    <Duration>(00:08)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>hilemanc</Username>
     <Terminal>pts/50</Terminal>
+    <Date>Wed Oct 26 17:23:27 2016</Date>
+    <Duration>(01:20)</Duration>
+    <RemoteTerminal>rnh49102.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/50</Terminal>
+    <Date>Wed Oct 26 17:20:30 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>minneci</Username>
     <Terminal>pts/49</Terminal>
+    <Date>Wed Oct 26 17:20:24 2016</Date>
+    <Duration>(01:22)</Duration>
+    <RemoteTerminal>rnh49112.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zmde1</Username>
     <Terminal>pts/48</Terminal>
+    <Date>Wed Oct 26 17:19:40 2016</Date>
+    <Duration>(00:16)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/47</Terminal>
+    <Date>Wed Oct 26 17:19:39 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/46</Terminal>
+    <Date>Wed Oct 26 17:19:38 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>whitney</Username>
     <Terminal>pts/45</Terminal>
+    <Date>Wed Oct 26 17:19:14 2016</Date>
+    <Duration>(02:00)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>acerom</Username>
     <Terminal>pts/44</Terminal>
+    <Date>Wed Oct 26 17:19:01 2016</Date>
+    <Duration>(01:24)</Duration>
+    <RemoteTerminal>rnh49113.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>lowerc</Username>
     <Terminal>pts/43</Terminal>
+    <Date>Wed Oct 26 17:18:15 2016</Date>
+    <Duration>(00:09)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>boggsj1</Username>
     <Terminal>pts/42</Terminal>
+    <Date>Wed Oct 26 17:17:52 2016</Date>
+    <Duration>(00:18)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>justust</Username>
     <Terminal>pts/41</Terminal>
+    <Date>Wed Oct 26 17:17:50 2016</Date>
+    <Duration>(01:25)</Duration>
+    <RemoteTerminal>rnh49115.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/40</Terminal>
+    <Date>Wed Oct 26 17:17:05 2016</Date>
+    <Duration>(00:14)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/24</Terminal>
+    <Date>Wed Oct 26 17:16:33 2016</Date>
+    <Duration>(00:11)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lightc</Username>
     <Terminal>pts/39</Terminal>
+    <Date>Wed Oct 26 17:16:15 2016</Date>
+    <Duration>(00:09)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>humphreymg</Username>
     <Terminal>pts/30</Terminal>
+    <Date>Wed Oct 26 17:15:05 2016</Date>
+    <Duration>(00:16)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/38</Terminal>
+    <Date>Wed Oct 26 17:14:20 2016</Date>
+    <Duration>(00:11)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>hornja</Username>
     <Terminal>pts/37</Terminal>
+    <Date>Wed Oct 26 17:14:04 2016</Date>
+    <Duration>(01:25)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>cowelld</Username>
     <Terminal>pts/31</Terminal>
+    <Date>Wed Oct 26 17:13:58 2016</Date>
+    <Duration>(02:02)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>richardsonhj</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Wed Oct 26 17:13:44 2016</Date>
+    <Duration>(01:29)</Duration>
+    <RemoteTerminal>rnh49110.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>whitney</Username>
     <Terminal>pts/36</Terminal>
+    <Date>Wed Oct 26 17:13:36 2016</Date>
+    <Duration>(01:03)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>lucmm1</Username>
     <Terminal>pts/35</Terminal>
+    <Date>Wed Oct 26 17:13:27 2016</Date>
+    <Duration>(01:26)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>reesehp</Username>
     <Terminal>pts/34</Terminal>
+    <Date>Wed Oct 26 17:12:40 2016</Date>
+    <Duration>(00:19)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>husaina</Username>
     <Terminal>pts/33</Terminal>
+    <Date>Wed Oct 26 17:11:57 2016</Date>
+    <Duration>(00:22)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/32</Terminal>
+    <Date>Wed Oct 26 17:11:49 2016</Date>
+    <Duration>(00:16)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/31</Terminal>
+    <Date>Wed Oct 26 17:11:40 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Wed Oct 26 17:11:39 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/30</Terminal>
+    <Date>Wed Oct 26 17:11:36 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>mistrettam</Username>
     <Terminal>pts/28</Terminal>
+    <Date>Wed Oct 26 17:11:35 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>jinkst</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Wed Oct 26 17:11:05 2016</Date>
+    <Duration>(00:14)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>daymj1</Username>
     <Terminal>pts/27</Terminal>
+    <Date>Wed Oct 26 17:10:52 2016</Date>
+    <Duration>(00:38)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>zmde1</Username>
     <Terminal>pts/27</Terminal>
+    <Date>Wed Oct 26 17:10:16 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>mckinneyla</Username>
     <Terminal>pts/25</Terminal>
+    <Date>Wed Oct 26 17:09:56 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/24</Terminal>
+    <Date>Wed Oct 26 17:09:51 2016</Date>
+    <Duration>(00:06)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/23</Terminal>
+    <Date>Wed Oct 26 17:09:36 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>reesehp</Username>
     <Terminal>pts/22</Terminal>
+    <Date>Wed Oct 26 17:09:28 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>zickgraf</Username>
     <Terminal>pts/21</Terminal>
+    <Date>Wed Oct 26 17:09:21 2016</Date>
+    <Duration>(00:22)</Duration>
+    <RemoteTerminal>rnh49208.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>humphreymg</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Wed Oct 26 17:07:23 2016</Date>
+    <Duration>(00:04)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Wed Oct 26 17:06:04 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>phil</Username>
     <Terminal>pts/18</Terminal>
+    <Date>Wed Oct 26 16:59:42 2016</Date>
+    <Duration>(01:44)</Duration>
+    <RemoteTerminal>rnh49123.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>carrollf</Username>
     <Terminal>pts/17</Terminal>
+    <Date>Wed Oct 26 16:58:30 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>dunns2</Username>
     <Terminal>pts/16</Terminal>
+    <Date>Wed Oct 26 16:53:41 2016</Date>
+    <Duration>(01:49)</Duration>
+    <RemoteTerminal>rnh49104.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>winingerj</Username>
     <Terminal>pts/15</Terminal>
+    <Date>Wed Oct 26 16:53:39 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>huberd</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Wed Oct 26 16:47:19 2016</Date>
+    <Duration>(01:56)</Duration>
+    <RemoteTerminal>rnh49111.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zndh4</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Wed Oct 26 16:47:19 2016</Date>
+    <Duration>(01:57)</Duration>
+    <RemoteTerminal>rnh49114.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>windes</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Wed Oct 26 16:40:33 2016</Date>
+    <Duration>(02:02)</Duration>
+    <RemoteTerminal>rnh49109.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>harmanc</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Wed Oct 26 16:33:01 2016</Date>
+    <Duration>(02:10)</Duration>
+    <RemoteTerminal>rnh49106.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Wed Oct 26 16:31:51 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>cowelld</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Wed Oct 26 16:26:43 2016</Date>
+    <Duration>(00:44)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>huy002</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Wed Oct 26 15:20:16 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>shl20405.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 15:18:43 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 15:18:01 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>harmanc</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Wed Oct 26 14:43:03 2016</Date>
+    <Duration>(00:21)</Duration>
+    <RemoteTerminal>rnh49106.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Wed Oct 26 14:41:39 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Wed Oct 26 14:41:38 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Wed Oct 26 14:40:39 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 14:40:37 2016</Date>
+    <Duration>(00:37)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>barrettm</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Wed Oct 26 12:39:24 2016</Date>
+    <Duration>(03:42)</Duration>
+    <RemoteTerminal>etsu908265.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Wed Oct 26 11:54:46 2016</Date>
+    <Duration>(08:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Wed Oct 26 11:37:03 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Wed Oct 26 11:04:52 2016</Date>
+    <Duration>(00:43)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>barrettm</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 10:46:27 2016</Date>
+    <Duration>(01:53)</Duration>
+    <RemoteTerminal>etsu908265.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>barrettm</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 10:29:16 2016</Date>
+    <Duration>(00:16)</Duration>
+    <RemoteTerminal>etsu908265.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>nielsen</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 10:20:25 2016</Date>
+    <Duration>(00:07)</Duration>
+    <RemoteTerminal>etsu908271.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Wed Oct 26 08:24:24 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>harmanc</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 07:02:19 2016</Date>
+    <Duration>(02:02)</Duration>
+    <RemoteTerminal>75.130.33.12</RemoteTerminal>
   </complete>
   <complete>
     <Username>harmanc</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Wed Oct 26 06:08:47 2016</Date>
+    <Duration>(00:53)</Duration>
+    <RemoteTerminal>75.130.33.12</RemoteTerminal>
   </complete>
   <complete>
     <Username>harmanc</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 06:00:29 2016</Date>
+    <Duration>(00:24)</Duration>
+    <RemoteTerminal>75.130.33.12</RemoteTerminal>
   </complete>
   <complete>
     <Username>hilemanc</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Wed Oct 26 00:35:54 2016</Date>
+    <Duration>(00:23)</Duration>
+    <RemoteTerminal>c-68-32-233-159.hsd1.va.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Wed Oct 26 00:15:59 2016</Date>
+    <Duration>(00:44)</Duration>
+    <RemoteTerminal>c-73-108-5-32.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Tue Oct 25 23:30:56 2016</Date>
+    <Duration>(01:00)</Duration>
+    <RemoteTerminal>c-73-108-5-32.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>hornja</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Tue Oct 25 21:58:00 2016</Date>
+    <Duration>(05:27)</Duration>
+    <RemoteTerminal>c-68-57-94-130.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>hilemanc</Username>
     <Terminal>pts/24</Terminal>
+    <Date>Tue Oct 25 21:39:20 2016</Date>
+    <Duration>(01:32)</Duration>
+    <RemoteTerminal>c-68-32-233-159.hsd1.va.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>barrettm</Username>
     <Terminal>pts/23</Terminal>
+    <Date>Tue Oct 25 21:38:38 2016</Date>
+    <Duration>(00:22)</Duration>
+    <RemoteTerminal>etsu908265.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>windes</Username>
     <Terminal>pts/17</Terminal>
+    <Date>Tue Oct 25 21:38:17 2016</Date>
+    <Duration>(00:22)</Duration>
+    <RemoteTerminal>24-158-192-6.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>barrettm</Username>
     <Terminal>pts/17</Terminal>
+    <Date>Tue Oct 25 21:30:47 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>rnh436mmc.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/21</Terminal>
+    <Date>Tue Oct 25 20:31:23 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Tue Oct 25 20:31:23 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>justust</Username>
     <Terminal>pts/17</Terminal>
+    <Date>Tue Oct 25 20:24:46 2016</Date>
+    <Duration>(00:55)</Duration>
+    <RemoteTerminal>c-50-142-55-54.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>dunns2</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Tue Oct 25 20:24:23 2016</Date>
+    <Duration>(01:19)</Duration>
+    <RemoteTerminal>192.168.226.47</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Tue Oct 25 20:07:29 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>acerom</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Tue Oct 25 20:04:52 2016</Date>
+    <Duration>(02:32)</Duration>
+    <RemoteTerminal>75-139-8-45.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/16</Terminal>
+    <Date>Tue Oct 25 20:00:46 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>acerom</Username>
     <Terminal>pts/22</Terminal>
+    <Date>Tue Oct 25 20:00:16 2016</Date>
+    <Duration>(02:37)</Duration>
+    <RemoteTerminal>75-139-8-45.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>huy002</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Tue Oct 25 19:59:51 2016</Date>
+    <Duration>(03:02)</Duration>
+    <RemoteTerminal>151.141.236.26</RemoteTerminal>
   </complete>
   <complete>
     <Username>acerom</Username>
     <Terminal>pts/21</Terminal>
+    <Date>Tue Oct 25 19:59:14 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>75-139-8-45.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>scruggsg</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Tue Oct 25 19:58:22 2016</Date>
+    <Duration>(03:36)</Duration>
+    <RemoteTerminal>24-151-160-180.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>huy002</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Tue Oct 25 19:51:18 2016</Date>
+    <Duration>(00:08)</Duration>
+    <RemoteTerminal>151.141.236.26</RemoteTerminal>
   </complete>
   <complete>
     <Username>justust</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Tue Oct 25 19:45:29 2016</Date>
+    <Duration>(00:43)</Duration>
+    <RemoteTerminal>c-50-142-55-54.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>reesehp</Username>
     <Terminal>pts/18</Terminal>
+    <Date>Tue Oct 25 19:42:26 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>dunns2</Username>
     <Terminal>pts/17</Terminal>
+    <Date>Tue Oct 25 19:31:33 2016</Date>
+    <Duration>(00:52)</Duration>
+    <RemoteTerminal>192.168.226.47</RemoteTerminal>
   </complete>
   <complete>
     <Username>scruggsg</Username>
     <Terminal>pts/16</Terminal>
+    <Date>Tue Oct 25 19:27:05 2016</Date>
+    <Duration>(00:30)</Duration>
+    <RemoteTerminal>24-151-160-180.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>winingerj</Username>
     <Terminal>pts/15</Terminal>
+    <Date>Tue Oct 25 19:22:35 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Tue Oct 25 19:17:14 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Tue Oct 25 19:17:13 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>butlerjm1</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Tue Oct 25 19:10:32 2016</Date>
+    <Duration>(03:28)</Duration>
+    <RemoteTerminal>24-151-164-165.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Tue Oct 25 18:44:44 2016</Date>
+    <Duration>(00:57)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Tue Oct 25 18:21:44 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Tue Oct 25 18:17:13 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>hilemanc</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Tue Oct 25 18:08:08 2016</Date>
+    <Duration>(00:08)</Duration>
+    <RemoteTerminal>c-68-32-233-159.hsd1.va.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>acerom</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Tue Oct 25 17:49:48 2016</Date>
+    <Duration>(02:09)</Duration>
+    <RemoteTerminal>75-139-8-45.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>zndh4</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Tue Oct 25 17:18:58 2016</Date>
+    <Duration>(01:47)</Duration>
+    <RemoteTerminal>96-33-23-18.dhcp.jcsn.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>leen01</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Tue Oct 25 17:17:15 2016</Date>
+    <Duration>(00:56)</Duration>
+    <RemoteTerminal>151.141.218.1</RemoteTerminal>
   </complete>
   <complete>
     <Username>harrisonms1</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Tue Oct 25 17:15:13 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>151.141.234.221</RemoteTerminal>
   </complete>
   <complete>
     <Username>windes</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Tue Oct 25 16:28:29 2016</Date>
+    <Duration>(03:20)</Duration>
+    <RemoteTerminal>24-158-192-6.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>richardsonhj</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Tue Oct 25 15:38:23 2016</Date>
+    <Duration>(00:05)</Duration>
+    <RemoteTerminal>151.141.242.91</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Tue Oct 25 15:32:40 2016</Date>
+    <Duration>(00:08)</Duration>
+    <RemoteTerminal>151.141.245.110</RemoteTerminal>
   </complete>
   <complete>
     <Username>whitney</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Tue Oct 25 15:01:49 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>dunns2</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Tue Oct 25 14:40:21 2016</Date>
+    <Duration>(00:49)</Duration>
+    <RemoteTerminal>192.168.232.120</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Tue Oct 25 14:10:46 2016</Date>
+    <Duration>(02:11)</Duration>
+    <RemoteTerminal>151.141.245.110</RemoteTerminal>
   </complete>
   <complete>
     <Username>zcee10</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Tue Oct 25 13:24:48 2016</Date>
+    <Duration>(00:05)</Duration>
+    <RemoteTerminal>151.141.221.245</RemoteTerminal>
   </complete>
   <complete>
     <Username>minneci</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Tue Oct 25 12:45:10 2016</Date>
+    <Duration>(04:18)</Duration>
+    <RemoteTerminal>207.109.93.4</RemoteTerminal>
   </complete>
   <complete>
     <Username>zndh4</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Tue Oct 25 12:42:22 2016</Date>
+    <Duration>(01:09)</Duration>
+    <RemoteTerminal>151.141.236.234</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Tue Oct 25 12:02:53 2016</Date>
+    <Duration>(03:45)</Duration>
+    <RemoteTerminal>151.141.245.110</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Tue Oct 25 12:02:11 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>winingerj</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Tue Oct 25 12:02:11 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>winingerj</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Tue Oct 25 12:02:03 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>fraziered</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Tue Oct 25 11:15:56 2016</Date>
+    <Duration>(00:04)</Duration>
+    <RemoteTerminal>151.141.165.17</RemoteTerminal>
   </complete>
   <complete>
     <Username>zndh4</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Tue Oct 25 11:08:53 2016</Date>
+    <Duration>(03:03)</Duration>
+    <RemoteTerminal>151.141.236.234</RemoteTerminal>
   </complete>
   <complete>
     <Username>winingerj</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Tue Oct 25 10:41:27 2016</Date>
+    <Duration>(01:20)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>mcreynoldsh</Username>
     <Terminal>pts/27</Terminal>
+    <Date>Tue Oct 25 10:10:20 2016</Date>
+    <Duration>(00:09)</Duration>
+    <RemoteTerminal>rnh49109.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>jacksonre</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Tue Oct 25 10:10:15 2016</Date>
+    <Duration>(00:10)</Duration>
+    <RemoteTerminal>rnh49106.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/38</Terminal>
+    <Date>Tue Oct 25 10:09:07 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>mckinneyla</Username>
     <Terminal>pts/37</Terminal>
+    <Date>Tue Oct 25 10:00:50 2016</Date>
+    <Duration>(00:19)</Duration>
+    <RemoteTerminal>rnh49128.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Tue Oct 25 10:00:38 2016</Date>
+    <Duration>(02:01)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/36</Terminal>
+    <Date>Tue Oct 25 09:59:10 2016</Date>
+    <Duration>(02:59)</Duration>
+    <RemoteTerminal>c-73-108-5-32.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/25</Terminal>
+    <Date>Tue Oct 25 09:58:25 2016</Date>
+    <Duration>(00:21)</Duration>
+    <RemoteTerminal>rnh49112.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mooretw1</Username>
     <Terminal>pts/35</Terminal>
+    <Date>Tue Oct 25 09:54:11 2016</Date>
+    <Duration>(00:26)</Duration>
+    <RemoteTerminal>rnh49116.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/35</Terminal>
+    <Date>Tue Oct 25 09:52:47 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/34</Terminal>
+    <Date>Tue Oct 25 09:48:21 2016</Date>
+    <Duration>(00:26)</Duration>
+    <RemoteTerminal>c-73-108-5-32.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>jinkst</Username>
     <Terminal>pts/24</Terminal>
+    <Date>Tue Oct 25 09:47:40 2016</Date>
+    <Duration>(00:32)</Duration>
+    <RemoteTerminal>rnh49105.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/17</Terminal>
+    <Date>Tue Oct 25 09:47:39 2016</Date>
+    <Duration>(00:32)</Duration>
+    <RemoteTerminal>rnh49125.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>pecorini</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Tue Oct 25 09:47:39 2016</Date>
+    <Duration>(00:32)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>pucketto</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Tue Oct 25 09:47:33 2016</Date>
+    <Duration>(00:32)</Duration>
+    <RemoteTerminal>rnh49131.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>husaina</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Tue Oct 25 09:47:18 2016</Date>
+    <Duration>(00:34)</Duration>
+    <RemoteTerminal>rnh49104.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hardyj</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Tue Oct 25 09:47:07 2016</Date>
+    <Duration>(00:33)</Duration>
+    <RemoteTerminal>rnh49126.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mckinneyla</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Tue Oct 25 09:46:50 2016</Date>
+    <Duration>(00:13)</Duration>
+    <RemoteTerminal>rnh49128.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>burdettj</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Tue Oct 25 09:46:42 2016</Date>
+    <Duration>(00:33)</Duration>
+    <RemoteTerminal>rnh49110.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zickgraf</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Tue Oct 25 09:46:42 2016</Date>
+    <Duration>(00:33)</Duration>
+    <RemoteTerminal>rnh49127.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/16</Terminal>
+    <Date>Tue Oct 25 09:41:53 2016</Date>
+    <Duration>(00:38)</Duration>
+    <RemoteTerminal>rnh49103.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/25</Terminal>
+    <Date>Tue Oct 25 09:41:23 2016</Date>
+    <Duration>(00:16)</Duration>
+    <RemoteTerminal>rnh49112.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>carmackj</Username>
     <Terminal>pts/33</Terminal>
+    <Date>Tue Oct 25 09:36:04 2016</Date>
+    <Duration>(00:44)</Duration>
+    <RemoteTerminal>rnh49108.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>carmackj</Username>
     <Terminal>pts/33</Terminal>
+    <Date>Tue Oct 25 09:26:58 2016</Date>
+    <Duration>(00:08)</Duration>
+    <RemoteTerminal>rnh49108.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>clarkhs</Username>
     <Terminal>pts/32</Terminal>
+    <Date>Tue Oct 25 09:26:39 2016</Date>
+    <Duration>(00:54)</Duration>
+    <RemoteTerminal>rnh49107.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hessl</Username>
     <Terminal>pts/31</Terminal>
+    <Date>Tue Oct 25 09:26:21 2016</Date>
+    <Duration>(01:05)</Duration>
+    <RemoteTerminal>(01:05)</RemoteTerminal>
   </complete>
   <complete>
     <Username>zmde1</Username>
     <Terminal>pts/30</Terminal>
+    <Date>Tue Oct 25 09:26:06 2016</Date>
+    <Duration>(07:02)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>hessl</Username>
     <Terminal>pts/28</Terminal>
+    <Date>Tue Oct 25 09:26:01 2016</Date>
+    <Duration>(01:06)</Duration>
+    <RemoteTerminal>rnh49115.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>jacksonre</Username>
     <Terminal>pts/27</Terminal>
+    <Date>Tue Oct 25 09:25:19 2016</Date>
+    <Duration>(00:44)</Duration>
+    <RemoteTerminal>rnh49106.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>daughertyb</Username>
     <Terminal>pts/25</Terminal>
+    <Date>Tue Oct 25 09:25:05 2016</Date>
+    <Duration>(00:16)</Duration>
+    <RemoteTerminal>rnh49112.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mckinneyla</Username>
     <Terminal>pts/24</Terminal>
+    <Date>Tue Oct 25 09:24:59 2016</Date>
+    <Duration>(00:21)</Duration>
+    <RemoteTerminal>rnh49128.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zcmc53</Username>
     <Terminal>pts/23</Terminal>
+    <Date>Tue Oct 25 09:24:02 2016</Date>
+    <Duration>(00:56)</Duration>
+    <RemoteTerminal>rnh49114.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>munseymk</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Tue Oct 25 09:21:08 2016</Date>
+    <Duration>(00:59)</Duration>
+    <RemoteTerminal>rnh49130.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>munseymk</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Tue Oct 25 09:20:53 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>rnh49130.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>greenenm</Username>
     <Terminal>pts/22</Terminal>
+    <Date>Tue Oct 25 09:04:39 2016</Date>
+    <Duration>(01:15)</Duration>
+    <RemoteTerminal>rnh49113.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>blevinsjt</Username>
     <Terminal>pts/21</Terminal>
+    <Date>Tue Oct 25 09:03:06 2016</Date>
+    <Duration>(01:18)</Duration>
+    <RemoteTerminal>rnh49120.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>burdettj</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Tue Oct 25 09:01:30 2016</Date>
+    <Duration>(00:44)</Duration>
+    <RemoteTerminal>rnh49110.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zcee10</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Tue Oct 25 09:01:29 2016</Date>
+    <Duration>(01:19)</Duration>
+    <RemoteTerminal>rnh49102.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>barrettm</Username>
     <Terminal>pts/18</Terminal>
+    <Date>Tue Oct 25 09:01:08 2016</Date>
+    <Duration>(01:19)</Duration>
+    <RemoteTerminal>rnh49123.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>pucketto</Username>
     <Terminal>pts/17</Terminal>
+    <Date>Tue Oct 25 09:01:06 2016</Date>
+    <Duration>(00:46)</Duration>
+    <RemoteTerminal>rnh49131.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/16</Terminal>
+    <Date>Tue Oct 25 09:00:48 2016</Date>
+    <Duration>(00:40)</Duration>
+    <RemoteTerminal>rnh49103.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonbw</Username>
     <Terminal>pts/15</Terminal>
+    <Date>Tue Oct 25 09:00:29 2016</Date>
+    <Duration>(01:19)</Duration>
+    <RemoteTerminal>rnh49118.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>pecorini</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Tue Oct 25 08:59:04 2016</Date>
+    <Duration>(00:48)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zdrb27</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Tue Oct 25 08:58:35 2016</Date>
+    <Duration>(01:22)</Duration>
+    <RemoteTerminal>rnh49117.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>husaina</Username>
     <Terminal>pts/12</Terminal>
+    <Date>Tue Oct 25 08:58:05 2016</Date>
+    <Duration>(00:48)</Duration>
+    <RemoteTerminal>rnh49104.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>jinkst</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Tue Oct 25 08:55:49 2016</Date>
+    <Duration>(00:51)</Duration>
+    <RemoteTerminal>rnh49105.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>burdettj</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Tue Oct 25 08:54:25 2016</Date>
+    <Duration>(00:06)</Duration>
+    <RemoteTerminal>rnh49110.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>pucketto</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Tue Oct 25 08:53:44 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>rnh49130.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hardyj</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Tue Oct 25 08:53:38 2016</Date>
+    <Duration>(00:53)</Duration>
+    <RemoteTerminal>rnh49126.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>zickgraf</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Tue Oct 25 08:52:56 2016</Date>
+    <Duration>(00:53)</Duration>
+    <RemoteTerminal>rnh49127.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Tue Oct 25 08:51:06 2016</Date>
+    <Duration>(00:56)</Duration>
+    <RemoteTerminal>rnh49125.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mcreynoldsh</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Tue Oct 25 08:50:27 2016</Date>
+    <Duration>(01:18)</Duration>
+    <RemoteTerminal>rnh49109.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>barrettm</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Tue Oct 25 08:47:54 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>etsu908265.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Tue Oct 25 08:47:18 2016</Date>
+    <Duration>(00:20)</Duration>
+    <RemoteTerminal>c-73-108-5-32.hsd1.tn.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>root</Username>
     <Terminal>tty1</Terminal>
+    <Date>Tue Oct 25 07:53:26 2016</Date>
+    <Duration>(00:13)</Duration>
+    <RemoteTerminal>:0</RemoteTerminal>
   </complete>
   <complete>
     <Username>whitney</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Tue Oct 25 05:52:46 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>phil</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Tue Oct 25 01:18:24 2016</Date>
+    <Duration>(04:54)</Duration>
+    <RemoteTerminal>tn-76-7-147-33.dhcp.embarqhsd.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>reesehp</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Mon Oct 24 23:39:58 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>leen01</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Mon Oct 24 23:36:04 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>192.168.212.138</RemoteTerminal>
   </complete>
   <complete>
     <Username>leen01</Username>
     <Terminal>pts/3</Terminal>
+    <Date>Mon Oct 24 23:00:17 2016</Date>
+    <Duration>(00:35)</Duration>
+    <RemoteTerminal>192.168.212.138</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/21</Terminal>
+    <Date>Mon Oct 24 22:26:43 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Mon Oct 24 22:14:50 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>whitney</Username>
     <Terminal>pts/18</Terminal>
+    <Date>Mon Oct 24 21:31:17 2016</Date>
+    <Duration>(07:15)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gillilandr</Username>
     <Terminal>pts/16</Terminal>
+    <Date>Mon Oct 24 21:15:34 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>butlerjm1</Username>
     <Terminal>pts/15</Terminal>
+    <Date>Mon Oct 24 21:11:21 2016</Date>
+    <Duration>(01:22)</Duration>
+    <RemoteTerminal>24-151-164-165.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>zndh4</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Mon Oct 24 21:07:58 2016</Date>
+    <Duration>(05:25)</Duration>
+    <RemoteTerminal>96-33-23-18.dhcp.jcsn.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Mon Oct 24 20:53:49 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>johnsonam4</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Mon Oct 24 20:44:35 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Mon Oct 24 20:38:15 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>kilpatrickc</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Mon Oct 24 20:38:13 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>hilemanc</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Mon Oct 24 20:37:50 2016</Date>
+    <Duration>(02:29)</Duration>
+    <RemoteTerminal>c-68-32-233-159.hsd1.va.comcast.net</RemoteTerminal>
   </complete>
   <complete>
     <Username>windes</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Mon Oct 24 20:27:37 2016</Date>
+    <Duration>(03:00)</Duration>
+    <RemoteTerminal>24-158-192-6.dhcp.kgpt.tn.charter.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>hornja</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Mon Oct 24 18:58:59 2016</Date>
+    <Duration>(00:04)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>justust</Username>
     <Terminal>pts/3</Terminal>
+    <Date>Mon Oct 24 18:58:45 2016</Date>
+    <Duration>(03:48)</Duration>
+    <RemoteTerminal>151.141.226.135</RemoteTerminal>
   </complete>
   <complete>
     <Username>friendc</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Mon Oct 24 18:55:03 2016</Date>
+    <Duration>(00:47)</Duration>
+    <RemoteTerminal>151.141.230.21</RemoteTerminal>
   </complete>
   <complete>
     <Username>hornja</Username>
     <Terminal>pts/3</Terminal>
+    <Date>Mon Oct 24 18:53:32 2016</Date>
+    <Duration>(00:04)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>harmanc</Username>
     <Terminal>pts/28</Terminal>
+    <Date>Mon Oct 24 18:36:15 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>rnh49107.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hornja</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Mon Oct 24 18:35:05 2016</Date>
+    <Duration>(00:05)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>justust</Username>
     <Terminal>pts/18</Terminal>
+    <Date>Mon Oct 24 18:34:28 2016</Date>
+    <Duration>(00:14)</Duration>
+    <RemoteTerminal>rnh49115.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>acerom</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Mon Oct 24 18:32:10 2016</Date>
+    <Duration>(00:17)</Duration>
+    <RemoteTerminal>rnh49113.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hornja</Username>
     <Terminal>pts/28</Terminal>
+    <Date>Mon Oct 24 18:30:34 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>phil</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Mon Oct 24 18:28:51 2016</Date>
+    <Duration>(00:20)</Duration>
+    <RemoteTerminal>rnh49123.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>harmanc</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Mon Oct 24 18:09:59 2016</Date>
+    <Duration>(00:24)</Duration>
+    <RemoteTerminal>rnh49107.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>harmanc</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Mon Oct 24 18:09:01 2016</Date>
+    <Duration>(00:00)</Duration>
+    <RemoteTerminal>rnh49107.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mckinneyla</Username>
     <Terminal>pts/30</Terminal>
+    <Date>Mon Oct 24 18:07:27 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>hornja</Username>
     <Terminal>pts/28</Terminal>
+    <Date>Mon Oct 24 18:05:47 2016</Date>
+    <Duration>(00:01)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>collinsmd1</Username>
     <Terminal>pts/27</Terminal>
+    <Date>Mon Oct 24 17:56:41 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Mon Oct 24 17:31:16 2016</Date>
+    <Duration>(01:15)</Duration>
+    <RemoteTerminal>rnh49117.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>winingerj</Username>
     <Terminal>pts/11</Terminal>
+    <Date>Mon Oct 24 17:22:57 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Mon Oct 24 17:19:35 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>rochellew</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Mon Oct 24 17:15:00 2016</Date>
+    <Duration>(00:04)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>gardnerkl</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Mon Oct 24 17:06:20 2016</Date>
+    <Duration>(00:24)</Duration>
+    <RemoteTerminal>rnh49117.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hornja</Username>
     <Terminal>pts/26</Terminal>
+    <Date>Mon Oct 24 17:05:01 2016</Date>
+    <Duration>(00:57)</Duration>
+    <RemoteTerminal>rnh49129.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>butlerjm1</Username>
     <Terminal>pts/23</Terminal>
+    <Date>Mon Oct 24 17:04:39 2016</Date>
+    <Duration>(01:44)</Duration>
+    <RemoteTerminal>rnh49118.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>huy002</Username>
     <Terminal>pts/10</Terminal>
+    <Date>Mon Oct 24 17:04:31 2016</Date>
+    <Duration>(01:44)</Duration>
+    <RemoteTerminal>rnh49128.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>phil</Username>
     <Terminal>pts/9</Terminal>
+    <Date>Mon Oct 24 17:04:27 2016</Date>
+    <Duration>(01:17)</Duration>
+    <RemoteTerminal>rnh49123.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>scruggsg</Username>
     <Terminal>pts/8</Terminal>
+    <Date>Mon Oct 24 17:02:09 2016</Date>
+    <Duration>(01:37)</Duration>
+    <RemoteTerminal>rnh49125.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>harmanc</Username>
     <Terminal>pts/7</Terminal>
+    <Date>Mon Oct 24 17:00:06 2016</Date>
+    <Duration>(01:08)</Duration>
+    <RemoteTerminal>rnh49107.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>huy002</Username>
     <Terminal>pts/6</Terminal>
+    <Date>Mon Oct 24 16:59:48 2016</Date>
+    <Duration>(00:04)</Duration>
+    <RemoteTerminal>rnh49128.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>acerom</Username>
     <Terminal>pts/5</Terminal>
+    <Date>Mon Oct 24 16:56:12 2016</Date>
+    <Duration>(01:35)</Duration>
+    <RemoteTerminal>rnh49113.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hilemanc</Username>
     <Terminal>pts/4</Terminal>
+    <Date>Mon Oct 24 16:56:10 2016</Date>
+    <Duration>(01:53)</Duration>
+    <RemoteTerminal>rnh49102.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>leen01</Username>
     <Terminal>pts/3</Terminal>
+    <Date>Mon Oct 24 16:54:42 2016</Date>
+    <Duration>(01:55)</Duration>
+    <RemoteTerminal>rnh49119.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>mckinneyla</Username>
     <Terminal>pts/2</Terminal>
+    <Date>Mon Oct 24 16:54:10 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>richardsonhj</Username>
     <Terminal>pts/25</Terminal>
+    <Date>Mon Oct 24 16:52:06 2016</Date>
+    <Duration>(01:51)</Duration>
+    <RemoteTerminal>rnh49110.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>dunns2</Username>
     <Terminal>pts/24</Terminal>
+    <Date>Mon Oct 24 16:51:54 2016</Date>
+    <Duration>(01:52)</Duration>
+    <RemoteTerminal>rnh49104.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>hilemanc</Username>
     <Terminal>pts/23</Terminal>
+    <Date>Mon Oct 24 16:51:19 2016</Date>
+    <Duration>(00:02)</Duration>
+    <RemoteTerminal>rnh49101.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>huberd</Username>
     <Terminal>pts/22</Terminal>
+    <Date>Mon Oct 24 16:51:02 2016</Date>
+    <Duration>(01:52)</Duration>
+    <RemoteTerminal>rnh49111.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>windes</Username>
     <Terminal>pts/21</Terminal>
+    <Date>Mon Oct 24 16:45:23 2016</Date>
+    <Duration>(01:53)</Duration>
+    <RemoteTerminal>rnh49109.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>minneci</Username>
     <Terminal>pts/19</Terminal>
+    <Date>Mon Oct 24 16:45:18 2016</Date>
+    <Duration>(02:02)</Duration>
+    <RemoteTerminal>rnh49112.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>justust</Username>
     <Terminal>pts/18</Terminal>
+    <Date>Mon Oct 24 16:45:10 2016</Date>
+    <Duration>(01:48)</Duration>
+    <RemoteTerminal>rnh49115.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>reesehp</Username>
     <Terminal>pts/17</Terminal>
+    <Date>Mon Oct 24 16:44:42 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-69-152-243.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>zndh4</Username>
     <Terminal>pts/16</Terminal>
+    <Date>Mon Oct 24 16:43:42 2016</Date>
+    <Duration>(01:52)</Duration>
+    <RemoteTerminal>rnh49114.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>richardsonhj</Username>
     <Terminal>pts/15</Terminal>
+    <Date>Mon Oct 24 16:37:56 2016</Date>
+    <Duration>(02:12)</Duration>
+    <RemoteTerminal>151.141.240.174</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/13</Terminal>
+    <Date>Mon Oct 24 16:31:50 2016</Date>
+    <Duration>(07:59)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
   <complete>
     <Username>richardsonhj</Username>
     <Terminal>pts/15</Terminal>
+    <Date>Mon Oct 24 16:11:59 2016</Date>
+    <Duration>(00:17)</Duration>
+    <RemoteTerminal>151.141.240.174</RemoteTerminal>
   </complete>
   <complete>
     <Username>richardsonhj</Username>
     <Terminal>pts/15</Terminal>
+    <Date>Mon Oct 24 16:06:12 2016</Date>
+    <Duration>(00:03)</Duration>
+    <RemoteTerminal>151.141.240.174</RemoteTerminal>
   </complete>
   <complete>
     <Username>barrettm</Username>
     <Terminal>pts/14</Terminal>
+    <Date>Mon Oct 24 16:02:29 2016</Date>
+    <Duration>(01:02)</Duration>
+    <RemoteTerminal>etsu908265.etsu.edu</RemoteTerminal>
   </complete>
   <complete>
     <Username>carterns</Username>
     <Terminal>pts/13</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/12</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/10</Terminal>
-  </complete>
-  <complete>
-    <Username>collinsmd1</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>humphreymg</Username>
-    <Terminal>pts/9</Terminal>
-  </complete>
-  <complete>
-    <Username>rochellew</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>mckinneyla</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>collinsmd1</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>winingerj</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>humphreymg</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>whitney</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>humphreymg</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>zickgraf</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>daymj1</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>whitney</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>whitney</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>winingerj</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>winingerj</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>justust</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>justust</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>justust</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>justust</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>gillilandr</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>zmde1</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>pll</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>tarnoff</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>fraziered</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>gillilandr</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/19</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/18</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/17</Terminal>
-  </complete>
-  <complete>
-    <Username>husaina</Username>
-    <Terminal>pts/17</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/16</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/15</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/15</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/14</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>bentleyp</Username>
-    <Terminal>pts/13</Terminal>
-  </complete>
-  <complete>
-    <Username>bentleyp</Username>
-    <Terminal>pts/12</Terminal>
-  </complete>
-  <complete>
-    <Username>root</Username>
-    <Terminal>pts/12</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/10</Terminal>
-  </complete>
-  <complete>
-    <Username>root</Username>
-    <Terminal>tty1</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/10</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/9</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>sloverd</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>sloverd</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>sloverd</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>sloverd</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>sloverd</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>pll</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>buchanandc</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>sloverd</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>armstrongpz</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>mckinneyla</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>zickgraf</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>carmackj</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>blevinsjt</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>fraziered</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>blumenstock</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>mcreynoldsh</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>burdettj</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>burdettj</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>blumenstock</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>blumenstock</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>blumenstock</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>blumenstock</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>blumenstock</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>blumenstock</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>clarkhs</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>munseymk</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/18</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/16</Terminal>
-  </complete>
-  <complete>
-    <Username>clarkhs</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/9</Terminal>
-  </complete>
-  <complete>
-    <Username>zamc48</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>husaina</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>jacksonre</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/16</Terminal>
-  </complete>
-  <complete>
-    <Username>carrollf</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/14</Terminal>
-  </complete>
-  <complete>
-    <Username>zmde1</Username>
-    <Terminal>pts/12</Terminal>
-  </complete>
-  <complete>
-    <Username>mckinneyla</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>coalsonc</Username>
-    <Terminal>pts/12</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>carrollf</Username>
-    <Terminal>pts/10</Terminal>
-  </complete>
-  <complete>
-    <Username>zcee10</Username>
-    <Terminal>pts/9</Terminal>
-  </complete>
-  <complete>
-    <Username>jacksonre</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>harmanc</Username>
-    <Terminal>pts/41</Terminal>
-  </complete>
-  <complete>
-    <Username>kilpatrickc</Username>
-    <Terminal>pts/40</Terminal>
-  </complete>
-  <complete>
-    <Username>kilpatrickc</Username>
-    <Terminal>pts/39</Terminal>
-  </complete>
-  <complete>
-    <Username>daymj1</Username>
-    <Terminal>pts/38</Terminal>
-  </complete>
-  <complete>
-    <Username>zmde1</Username>
-    <Terminal>pts/37</Terminal>
-  </complete>
-  <complete>
-    <Username>winingerj</Username>
-    <Terminal>pts/35</Terminal>
-  </complete>
-  <complete>
-    <Username>rochellew</Username>
-    <Terminal>pts/33</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/31</Terminal>
-  </complete>
-  <complete>
-    <Username>mckinneyla</Username>
-    <Terminal>pts/21</Terminal>
-  </complete>
-  <complete>
-    <Username>harmanc</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>harmanc</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>harmanc</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>whitney</Username>
-    <Terminal>pts/36</Terminal>
-  </complete>
-  <complete>
-    <Username>zickgraf</Username>
-    <Terminal>pts/35</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/34</Terminal>
-  </complete>
-  <complete>
-    <Username>mistrettam</Username>
-    <Terminal>pts/33</Terminal>
-  </complete>
-  <complete>
-    <Username>coalsonc</Username>
-    <Terminal>pts/32</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/31</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/30</Terminal>
-  </complete>
-  <complete>
-    <Username>scottbc</Username>
-    <Terminal>pts/26</Terminal>
-  </complete>
-  <complete>
-    <Username>butlerjm1</Username>
-    <Terminal>pts/29</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/28</Terminal>
-  </complete>
-  <complete>
-    <Username>carrollf</Username>
-    <Terminal>pts/27</Terminal>
-  </complete>
-  <complete>
-    <Username>scottbc</Username>
-    <Terminal>pts/26</Terminal>
-  </complete>
-  <complete>
-    <Username>zndh4</Username>
-    <Terminal>pts/25</Terminal>
-  </complete>
-  <complete>
-    <Username>hornja</Username>
-    <Terminal>pts/24</Terminal>
-  </complete>
-  <complete>
-    <Username>carrollf</Username>
-    <Terminal>pts/23</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/22</Terminal>
-  </complete>
-  <complete>
-    <Username>harmanc</Username>
-    <Terminal>pts/21</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/20</Terminal>
-  </complete>
-  <complete>
-    <Username>acerom</Username>
-    <Terminal>pts/19</Terminal>
-  </complete>
-  <complete>
-    <Username>dunns2</Username>
-    <Terminal>pts/18</Terminal>
-  </complete>
-  <complete>
-    <Username>mckinneyla</Username>
-    <Terminal>pts/17</Terminal>
-  </complete>
-  <complete>
-    <Username>scruggsg</Username>
-    <Terminal>pts/16</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/15</Terminal>
-  </complete>
-  <complete>
-    <Username>zmde1</Username>
-    <Terminal>pts/15</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/14</Terminal>
-  </complete>
-  <complete>
-    <Username>reesehp</Username>
-    <Terminal>pts/13</Terminal>
-  </complete>
-  <complete>
-    <Username>huberd</Username>
-    <Terminal>pts/12</Terminal>
-  </complete>
-  <complete>
-    <Username>justust</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>minneci</Username>
-    <Terminal>pts/10</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/9</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>hilemanc</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>clarkhs</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>gillilandr</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>hornja</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>test1</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>sentellm</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>carterns</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>burdettj</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>mistrettam</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>burdettj</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>hornja</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>friendc</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>friendc</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>fraziered</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>fraziered</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>jacksonre</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>jacksonre</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>scottbc</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>mcreynoldsh</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>hornja</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>hornja</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>zdrb27</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>zdrb27</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>fraziered</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>fraziered</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>zdrb27</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>justust</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>zdrb27</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>justust</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>justust</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>zdrb27</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>zcee10</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>greenenm</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>greenenm</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>fraziered</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/52</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/18</Terminal>
-  </complete>
-  <complete>
-    <Username>hessl</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>carmackj</Username>
-    <Terminal>pts/51</Terminal>
-  </complete>
-  <complete>
-    <Username>mistrettam</Username>
-    <Terminal>pts/50</Terminal>
-  </complete>
-  <complete>
-    <Username>mistrettam</Username>
-    <Terminal>pts/49</Terminal>
-  </complete>
-  <complete>
-    <Username>fraziered</Username>
-    <Terminal>pts/48</Terminal>
-  </complete>
-  <complete>
-    <Username>zcmc53</Username>
-    <Terminal>pts/47</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/29</Terminal>
-  </complete>
-  <complete>
-    <Username>zcmc53</Username>
-    <Terminal>pts/46</Terminal>
-  </complete>
-  <complete>
-    <Username>fraziered</Username>
-    <Terminal>pts/45</Terminal>
-  </complete>
-  <complete>
-    <Username>greenenm</Username>
-    <Terminal>pts/44</Terminal>
-  </complete>
-  <complete>
-    <Username>friendc</Username>
-    <Terminal>pts/25</Terminal>
-  </complete>
-  <complete>
-    <Username>friendc</Username>
-    <Terminal>pts/43</Terminal>
-  </complete>
-  <complete>
-    <Username>jacksonre</Username>
-    <Terminal>pts/42</Terminal>
-  </complete>
-  <complete>
-    <Username>jacksonre</Username>
-    <Terminal>pts/41</Terminal>
-  </complete>
-  <complete>
-    <Username>blevinsjt</Username>
-    <Terminal>pts/40</Terminal>
-  </complete>
-  <complete>
-    <Username>burdettj</Username>
-    <Terminal>pts/39</Terminal>
-  </complete>
-  <complete>
-    <Username>carmackj</Username>
-    <Terminal>pts/38</Terminal>
-  </complete>
-  <complete>
-    <Username>carmackj</Username>
-    <Terminal>pts/37</Terminal>
-  </complete>
-  <complete>
-    <Username>pucketto</Username>
-    <Terminal>pts/36</Terminal>
-  </complete>
-  <complete>
-    <Username>mcreynoldsh</Username>
-    <Terminal>pts/34</Terminal>
-  </complete>
-  <complete>
-    <Username>munseymk</Username>
-    <Terminal>pts/35</Terminal>
-  </complete>
-  <complete>
-    <Username>blevinsjt</Username>
-    <Terminal>pts/34</Terminal>
-  </complete>
-  <complete>
-    <Username>zdrb27</Username>
-    <Terminal>pts/33</Terminal>
-  </complete>
-  <complete>
-    <Username>hardyj</Username>
-    <Terminal>pts/32</Terminal>
-  </complete>
-  <complete>
-    <Username>pecorini</Username>
-    <Terminal>pts/31</Terminal>
-  </complete>
-  <complete>
-    <Username>zickgraf</Username>
-    <Terminal>pts/30</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/29</Terminal>
-  </complete>
-  <complete>
-    <Username>mcreynoldsh</Username>
-    <Terminal>pts/28</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/27</Terminal>
-  </complete>
-  <complete>
-    <Username>clarkhs</Username>
-    <Terminal>pts/26</Terminal>
-  </complete>
-  <complete>
-    <Username>greenenm</Username>
-    <Terminal>pts/25</Terminal>
-  </complete>
-  <complete>
-    <Username>mckinneyla</Username>
-    <Terminal>pts/24</Terminal>
-  </complete>
-  <complete>
-    <Username>zamc48</Username>
-    <Terminal>pts/23</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/22</Terminal>
-  </complete>
-  <complete>
-    <Username>clarkhs</Username>
-    <Terminal>pts/21</Terminal>
-  </complete>
-  <complete>
-    <Username>husaina</Username>
-    <Terminal>pts/20</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonbw</Username>
-    <Terminal>pts/19</Terminal>
-  </complete>
-  <complete>
-    <Username>zcee10</Username>
-    <Terminal>pts/18</Terminal>
-  </complete>
-  <complete>
-    <Username>greenenm</Username>
-    <Terminal>pts/17</Terminal>
-  </complete>
-  <complete>
-    <Username>mckinneyla</Username>
-    <Terminal>pts/16</Terminal>
-  </complete>
-  <complete>
-    <Username>burdettj</Username>
-    <Terminal>pts/15</Terminal>
-  </complete>
-  <complete>
-    <Username>daughertyb</Username>
-    <Terminal>pts/14</Terminal>
-  </complete>
-  <complete>
-    <Username>pecorini</Username>
-    <Terminal>pts/13</Terminal>
-  </complete>
-  <complete>
-    <Username>munseymk</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>zamc48</Username>
-    <Terminal>pts/12</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonbw</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>barrettm</Username>
-    <Terminal>pts/10</Terminal>
-  </complete>
-  <complete>
-    <Username>husaina</Username>
-    <Terminal>pts/9</Terminal>
-  </complete>
-  <complete>
-    <Username>munseymk</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>pucketto</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>blevinsjt</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>zdrb27</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>hardyj</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>zickgraf</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>zcee10</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>test1</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>test</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>zickgraf</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>zickgraf</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>zndh4</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>scottbc</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>scottbc</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>hilemanc</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>minneci</Username>
-    <Terminal>pts/9</Terminal>
-  </complete>
-  <complete>
-    <Username>hilemanc</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>acerom</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>acerom</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>dunns2</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/16</Terminal>
-  </complete>
-  <complete>
-    <Username>hornja</Username>
-    <Terminal>pts/15</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/14</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>scruggsg</Username>
-    <Terminal>pts/13</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/12</Terminal>
-  </complete>
-  <complete>
-    <Username>acerom</Username>
-    <Terminal>pts/11</Terminal>
-  </complete>
-  <complete>
-    <Username>zndh4</Username>
-    <Terminal>pts/10</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/9</Terminal>
-  </complete>
-  <complete>
-    <Username>huberd</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>justust</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>butlerjm1</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>hilemanc</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>hilemanc</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>butlerjm1</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>johnsonam4</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>root</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>root</Username>
-    <Terminal>tty1</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>barrettm</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>root</Username>
-    <Terminal>tty1</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>harmanc</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>harmanc</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>harmanc</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>harmanc</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>gardnerkl</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>hornja</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>dunns2</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>hilemanc</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>hornja</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>gillilandr</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>dunns2</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>sloverd</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/9</Terminal>
-  </complete>
-  <complete>
-    <Username>dunns2</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/8</Terminal>
-  </complete>
-  <complete>
-    <Username>dunns2</Username>
-    <Terminal>pts/7</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>huy002</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>scruggsg</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>scruggsg</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>windes</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/6</Terminal>
-  </complete>
-  <complete>
-    <Username>hornja</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>mcmeen</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>zndh4</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>mcmeen</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>huberd</Username>
-    <Terminal>pts/2</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>scruggsg</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>richardsonhj</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>gillilandr</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>phil</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>gillilandr</Username>
-    <Terminal>pts/0</Terminal>
-  </complete>
-  <complete>
-    <Username>leen01</Username>
-    <Terminal>pts/1</Terminal>
-  </complete>
-  <complete>
-    <Username>jinkst</Username>
-    <Terminal>pts/5</Terminal>
-  </complete>
-  <complete>
-    <Username>gillilandr</Username>
-    <Terminal>pts/4</Terminal>
-  </complete>
-  <complete>
-    <Username>scruggsg</Username>
-    <Terminal>pts/3</Terminal>
-  </complete>
-  <complete>
-    <Username>winingerj</Username>
-    <Terminal>pts/2</Terminal>
+    <Date>Mon Oct 24 15:37:01 2016</Date>
+    <Duration>(00:54)</Duration>
+    <RemoteTerminal>ec2-54-186-244-104.us-west-2.compute.amazonaws.com</RemoteTerminal>
   </complete>
 </Sessions>
