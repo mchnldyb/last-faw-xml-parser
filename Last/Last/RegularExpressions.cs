@@ -39,6 +39,8 @@ namespace Last
         private static string duration = @"\((\d?\d\+)?(((0[0-9])|(1[0-9])|(2[0-3]))):(((0[0-9])|([1-5][0-9])))\)";
         private static string host = @"([^ ]+)?$";
 
+        private static string wtmp_trailer = @"^wtmp\s+begins\s+(Mon|T(ue|hu)|Wed|Fri|S(un|at))\s+((J(an|un|ul)|Feb|Ma(r|y)|A(pr|ug)|Sep|Oct|Nov|Dec))\s+";
+
         private static string LogTime = WeekDay + @"\s+" + month + @"\s+" + day_of_month + @"\s+" + time + @"\s+" + year;
 
         private static string SYSTEM_CRASH = username + @"\s+" + terminal + @"\s+" + WeekDay + @"\s+" + month + @"\s+" +
@@ -70,7 +72,7 @@ namespace Last
             }
             else if (new Regex(SYSTEM_SHUTDOWN).IsMatch(line))
             { 
-                return "system shutdown";
+                return "system-shutdown";
             }
             else if (new Regex(COMPLETE_KNOWN_TERMINAL_SYSTEM_CRASH).IsMatch(line))
             { 
@@ -121,6 +123,15 @@ namespace Last
             }
 
             return pattern;
+        }
+
+        public static bool getwtmpTrailerStatus(String line)
+        {
+            if (new Regex(wtmp_trailer).IsMatch(line))
+                return true;
+
+            return false;
+
         }
 
      }

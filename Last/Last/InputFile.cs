@@ -27,7 +27,7 @@ namespace Last
         }
 
 
-        public void isValid()
+        public bool isValid()
         {
             string last_line = null;
 
@@ -36,6 +36,11 @@ namespace Last
                 last_line = line;
                 break;
             }
+
+            if (RegularExpressions.getwtmpTrailerStatus(last_line))
+                return true;
+
+            return false;
 
         }
 

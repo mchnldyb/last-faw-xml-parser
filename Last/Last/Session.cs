@@ -29,13 +29,13 @@ namespace Last
             {
                 case "complete":
                 {
-                    mParser.parseXML(singleSession,"complete");
+                    mParser.parseXML(singleSession,RegularExpressions.getRecordType(singleSession));
                     break;
                 }
 
                 case "incomplete":
                 {
-                     mParser.parseXML(singleSession,"incomplete");
+                     mParser.parseXML(singleSession,RegularExpressions.getRecordType(singleSession));
                      break;
                 }
 
@@ -48,12 +48,29 @@ namespace Last
             }
         }
 
+        public void writeToSuspenseFile(String unparsableSession)
+        {
+            if (!File.Exists(@"C:\Users\Hero\Documents\Visual Studio 2015\Projects\Last\Last\suspense.txt"))
+            {
+                File.Create(@"C:\Users\Hero\Documents\Visual Studio 2015\Projects\Last\Last\suspense.txt");
+            }
+
+            using (StreamWriter writer = new StreamWriter(@"C:\Users\Hero\Documents\Visual Studio 2015\Projects\Last\Last\suspense.txt", true))
+            {
+                writer.WriteLine(unparsableSession);
+            }
+        }
+
         public void readSessions()
         {
-            lastInputFile.isValid();
+            if (!lastInputFile.isValid())
+            {
+                //Write to error log and exit here
+                Console.WriteLine("Is valid");
+            }
             int counter = 0;
             String line;
-            //Field currentLine = new Field();
+            
             
 
             try
@@ -62,9 +79,12 @@ namespace Last
 
                 while ((line = file.ReadLine()) != null)
                 {
-                    
-                    if(RegularExpressions.getRecordType(line).Equals("none"))
-                        continue; //write to error log here
+
+                    if (RegularExpressions.getRecordType(line).Equals("none"))
+                    {
+                        this.writeToSuspenseFile(line);
+                        continue;
+                    }
 
                     this.parse(line);
 
