@@ -14,6 +14,7 @@ namespace Last
      
         private InputFile lastInputFile;
         private Parser mParser = new Parser(); 
+        private ErrorLog error = new ErrorLog();
 
 
         public Session(InputFile inputFile)
@@ -48,30 +49,40 @@ namespace Last
             }
         }
 
+
+
+
         public void writeToSuspenseFile(String unparsableSession)
         {
-            if (!File.Exists(@"C:\Users\Hero\Documents\Visual Studio 2015\Projects\Last\Last\suspense.txt"))
+            if (!File.Exists(Argconstants.SUSPENSE_FILE))
             {
-                File.Create(@"C:\Users\Hero\Documents\Visual Studio 2015\Projects\Last\Last\suspense.txt");
+                File.Create(Argconstants.SUSPENSE_FILE).Dispose();
             }
 
-            using (StreamWriter writer = new StreamWriter(@"C:\Users\Hero\Documents\Visual Studio 2015\Projects\Last\Last\suspense.txt", true))
+            using (StreamWriter writer = new StreamWriter(Argconstants.SUSPENSE_FILE, true))
             {
                 writer.WriteLine(unparsableSession);
+                writer.Close();
             }
         }
+
+
+
+
 
         public void readSessions()
         {
             if (!lastInputFile.isValid())
             {
                 //Write to error log and exit here
+                error.writeError("Specified file is not valid");
                 Console.WriteLine("Is valid");
             }
             int counter = 0;
             String line;
             
-            
+            Console.WriteLine(this.lastInputFile.getInputStartTime());
+            Console.WriteLine(this.lastInputFile.getCreationTime());
 
             try
             {

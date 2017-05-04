@@ -71,7 +71,7 @@ namespace Last
         {
             if (!File.Exists(outputFilePath))
             {
-                outputFilePath = @"C:\Users\Hero\Documents\Visual Studio 2015\Projects\Last\Last\output.xml";
+                outputFilePath = Argconstants.MARKUP_FILE;
                 document = new XDocument(new XElement("Sessions"));
                 document.Save(outputFilePath);
             }
