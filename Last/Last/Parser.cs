@@ -63,6 +63,61 @@ namespace Last
                 }
 
 
+                case "system-crash":
+                {
+                        document = XDocument.Load(outputFilePath);
+                        document.Element("Sessions").Add(new XElement(type,
+                                                        new XElement(mUsername.GetType().Name, new XText(mUsername.getField(line)))
+                                                       ,new XElement(mTerminal.GetType().Name, new XText(mTerminal.getField(line)))
+                                                       ,new XElement(mDate.GetType().Name, new XText(mDate.getField(line)))
+                                                       ,new XElement(mDuration.GetType().Name, new XText(mDuration.getField(line)))
+                                                        ));
+                        document.Save(outputFilePath);
+                        break;
+
+                }
+
+                case "system-shutdown":
+                {
+                        document = XDocument.Load(outputFilePath);
+                        document.Element("Sessions").Add(new XElement(type,
+                                                         new XElement(mDate.GetType().Name, new XText(mDate.getField(line)))
+                                                       , new XElement(mDuration.GetType().Name, new XText(mDuration.getField(line)))
+                                                       , new XElement(mTerminal.GetType().Name, new XText(mTerminal.getField(line)))
+                                                        ));
+                        document.Save(outputFilePath);
+                        break;
+
+                 }
+
+                case "reboot":
+                {
+                        document = XDocument.Load(outputFilePath);
+                        document.Element("Sessions").Add(new XElement(type,
+                                                         new XElement(mDate.GetType().Name, new XText(mDate.getField(line)))
+                                                       , new XElement(mDuration.GetType().Name, new XText(mDuration.getField(line)))
+                                                       , new XElement(mTerminal.GetType().Name, new XText(mTerminal.getField(line)))
+                                                        ));
+                        document.Save(outputFilePath);
+                        break;
+
+                 }
+
+                case "runlevel-change":
+                {
+                        document = XDocument.Load(outputFilePath);
+                        document.Element("Sessions").Add(new XElement(type,
+                                                        new XElement("Description"), new XText(RegularExpressions.getRunLevel(line))
+                                                       , new XElement(mDate.GetType().Name, new XText(mDate.getField(line)))
+                                                       , new XElement(mDuration.GetType().Name, new XText(mDuration.getField(line)))
+                                                       , new XElement(mTerminal.GetType().Name, new XText(mTerminal.getField(line)))
+                                                        ));
+                        document.Save(outputFilePath);
+                        break;
+
+                    }
+
+
 
             }
         }

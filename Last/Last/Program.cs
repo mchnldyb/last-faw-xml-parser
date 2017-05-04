@@ -18,6 +18,7 @@ namespace Last
             Argconstants.MARKUP_FILE = options.MarkupFile;
             Argconstants.ERROR_FILE = options.ErrorFile;
             Argconstants.SUSPENSE_FILE = options.SuspenseFile;
+            Argconstants.INPUT_FILE = options.InputFile;
 
             InputFile infFile = new InputFile(options.InputFile);
             Session mySession = new Session(infFile);

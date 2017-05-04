@@ -11,5 +11,6 @@ namespace Last
         public static String MARKUP_FILE;
         public static String ERROR_FILE;
         public static String SUSPENSE_FILE;
+        public static string INPUT_FILE;
     }
 }

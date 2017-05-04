@@ -40,6 +40,30 @@ namespace Last
                      break;
                 }
 
+                case "system-crash":
+                {
+                    mParser.parseXML(singleSession,RegularExpressions.getRecordType(singleSession));
+                    break;
+                }
+
+                case "system-shutdown":
+                {
+                     mParser.parseXML(singleSession, RegularExpressions.getRecordType(singleSession));
+                     break;
+                }
+
+                case "reboot":
+                {
+                        mParser.parseXML(singleSession, RegularExpressions.getRecordType(singleSession));
+                        break;
+                }
+
+                case "runlevel-change":
+                {
+                        mParser.parseXML(singleSession, RegularExpressions.getRecordType(singleSession));
+                        break;
+                }
+
                 default:
                 {
                     Console.WriteLine("other");
@@ -75,7 +99,7 @@ namespace Last
             if (!lastInputFile.isValid())
             {
                 //Write to error log and exit here
-                error.writeError("Specified file is not valid");
+                error.writeError("Specified file is not valid" + Argconstants.INPUT_FILE);
                 Console.WriteLine("Is valid");
             }
             int counter = 0;

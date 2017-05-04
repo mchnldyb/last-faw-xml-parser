@@ -26,6 +26,7 @@ namespace Last
         private static string reboot = @"^reboot";
         private static string loged_in = @"still logged in";
         private static string down = @"down";
+        private static string runlevel_desc = @"\(to+\s+lvl\s+[1-5]\)";
         private static string year = @"20[0-9][0-9]";
         private static string terminal = @"((pts\/\d?\d)|(tty\d))";
 
@@ -59,7 +60,11 @@ namespace Last
 
         private static string INCOMPLETE_LOGIN_KNOWN_TERMINAL = username + @"\s+" + terminal + @"\s+" + LogTime + @"\s+" + loged_in + @"\s+" + host;
 
+        private static string REBOOT_RECORD = reboot + @"\s+" + @"system" + @"\s+" + @"boot" + @"\s+" + LogTime + @"\s+" +
+                                              @"-" + @"\s+" + LogTime + @"\s+" + duration + @"\s+" + host;
 
+        private static string RUNLEVEL_CHANGE = @"^runlevel" + @"\s+" + runlevel_desc + @"\s+" + LogTime + @"\s+" + @"-" +
+                                                @"\s+" + LogTime + @"\s+" + duration + @"\s+" + host;
 
 
         public static string getRecordType(String line)
@@ -68,7 +73,7 @@ namespace Last
 
             if (new Regex(SYSTEM_CRASH).IsMatch(line))
             { 
-                return "systemcrash";
+                return "system-crash";
             }
             else if (new Regex(SYSTEM_SHUTDOWN).IsMatch(line))
             { 
@@ -89,6 +94,14 @@ namespace Last
             else if (new Regex(INCOMPLETE_LOGIN_KNOWN_TERMINAL).IsMatch(line))
             {
                 return "incomplete";
+            }
+            else if (new Regex(REBOOT_RECORD).IsMatch(line))
+            {
+                return "reboot";
+            }
+            else if (new Regex(RUNLEVEL_CHANGE).IsMatch(line))
+            {
+                return "runlevel-change";
             }
             else
             {
@@ -132,6 +145,13 @@ namespace Last
 
             return false;
 
+        }
+
+        public static string getRunLevel(String line)
+        {
+            Match match = Regex.Match(line, RegularExpressions.runlevel_desc);
+
+            return match.Value;
         }
 
      }

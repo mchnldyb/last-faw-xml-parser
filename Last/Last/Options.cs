@@ -27,6 +27,5 @@ namespace Last
             HelpText = "Markup file for parsed output")]
         public string MarkupFile { get; set; }
 
-
     }
 }
