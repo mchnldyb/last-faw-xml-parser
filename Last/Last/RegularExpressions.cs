@@ -11,6 +11,10 @@ namespace Last
 {
     public static class RegularExpressions
     {
+        //Regular Expressions Class to hold all Regex Patters and Methods to compare record types
+
+
+        //Begin Regex Patterns for Record Types    
         private static Regex regex = null;
 
 
@@ -65,8 +69,10 @@ namespace Last
 
         private static string RUNLEVEL_CHANGE = @"^runlevel" + @"\s+" + runlevel_desc + @"\s+" + LogTime + @"\s+" + @"-" +
                                                 @"\s+" + LogTime + @"\s+" + duration + @"\s+" + host;
+        //End Regex Patterns for All Records
 
-
+        
+        //Returns type of record based on Regular Expressions stated above for various record types
         public static string getRecordType(String line)
         {
             String rec_type = null;
@@ -110,6 +116,7 @@ namespace Last
 
         }
 
+        //Returns the pattern for the various record types based on the Caller to the sub field types
         public static string getPattern(string _caller)
         {
             string pattern = null;
@@ -138,6 +145,7 @@ namespace Last
             return pattern;
         }
 
+        //Validates the WTMP trailer in the InputFile based on Regular Expressions
         public static bool getwtmpTrailerStatus(String line)
         {
             if (new Regex(wtmp_trailer).IsMatch(line))
@@ -147,6 +155,9 @@ namespace Last
 
         }
 
+
+
+        //Returns the RunLevel change for a specified run level Session type
         public static string getRunLevel(String line)
         {
             Match match = Regex.Match(line, RegularExpressions.runlevel_desc);

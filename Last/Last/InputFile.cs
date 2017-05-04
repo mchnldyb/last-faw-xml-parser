@@ -15,7 +15,7 @@ namespace Last
         private string filename;
 
 
-
+        //Constructor
         public InputFile(string name)
         {
             this.filename = name;
@@ -23,7 +23,7 @@ namespace Last
 
 
 
-
+        //Returns the Input File Name
         public String getFileName()
         {
             return this.filename;
@@ -32,7 +32,7 @@ namespace Last
 
 
 
-
+        //Checks Validity of Input File , If WTMP trailer is missing, reutns false
         public bool isValid()
         {
             string last_line = null;
@@ -51,7 +51,7 @@ namespace Last
         }
 
 
-
+        //gets the creation time for the Input File.
         public DateTime getCreationTime()
         {
             return File.GetCreationTime(this.getFileName());
@@ -59,7 +59,7 @@ namespace Last
 
 
 
-
+        //Gets the input start date or WTMP time for InputFile
         public string getInputStartTime()
         {
             string last_line = null;

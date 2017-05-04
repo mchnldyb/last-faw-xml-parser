@@ -11,17 +11,19 @@ namespace Last
 {
     class Session
     {
-     
+        //Reads and Parses Sessions in InputFile Specified by User
+        
         private InputFile lastInputFile;
         private Parser mParser = new Parser(); 
         private ErrorLog error = new ErrorLog();
 
-
+        //Constructor
         public Session(InputFile inputFile)
         {
             this.lastInputFile = inputFile;
         }
 
+        //parses the different Session Types
         public void parse(String singleSession)
         {
             
@@ -75,7 +77,7 @@ namespace Last
 
 
 
-
+        //Write unparsable records to suspense file
         public void writeToSuspenseFile(String unparsableSession)
         {
             if (!File.Exists(Argconstants.SUSPENSE_FILE))
@@ -89,6 +91,7 @@ namespace Last
                 writer.Close();
             }
         }
+
 
 
 

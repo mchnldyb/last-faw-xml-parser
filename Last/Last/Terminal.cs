@@ -9,6 +9,9 @@ namespace Last
 {
     class Terminal : Field
     {
+        //Subclass of Field to Hold Information related to the Terminal of Sessions
+
+        //Returns the Terminal from a parsed session
         public override string getField(string session)
         {
             Match match = Regex.Match(session, RegularExpressions.getPattern("terminal"));

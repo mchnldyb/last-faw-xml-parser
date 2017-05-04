@@ -9,8 +9,11 @@ namespace Last
 {
     class Duration : Field
     {
+        //Subclass of Field to Hold Information related to the Duration of Sessions
+
         public override string getField(string session)
         {
+            //Returns the Duration from a parsed session
             Match match = Regex.Match(session, RegularExpressions.getPattern("duration"));
 
             return match.Value;
