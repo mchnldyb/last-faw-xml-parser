@@ -1,29 +1,19 @@
-# README #
+# Last -Faw XML Parser #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+### Parses output from the Unix Last -Faw Command based on various record types. ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+* Parses output from Unix Last -Faw command into bases on the following record types : 
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+	* System Crash
+	* System Shutdown
+	* Reboot record
+	* Run-level change
+	* Incomplete records both from known and unknown terminals
+	* Complete Records both from known and unknown terminals
+	
+#
+	
+* Version 1.0
