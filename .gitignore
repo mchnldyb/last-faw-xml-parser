@@ -240,3 +240,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+#Ignore Output files
+./Last/suspense.txt
+./Last/output.xml
